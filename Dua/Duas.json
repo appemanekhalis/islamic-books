@@ -1,6 +1,6 @@
 {
   "book": {
-    "title": "...دعائیں و اذکار",
+    "title": "دعائیں و اذکار",
     "language": "Urdu",
     "script": "Arabic/Urdu",
     "total_pages": 78,
@@ -16,7 +16,7 @@
     "chapters": [
       {
         "chapter_id": 1,
-        "title": "دعا مانگنے کا طریقہ",
+        "title": "...دعا مانگنے کا طریقہ",
         "page_start": 3,
         "page_end": 4,
         "sections": [
