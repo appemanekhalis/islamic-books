@@ -20,7 +20,7 @@
       "created": "2021-07-05"
     },
     "authors_and_publishers": {
-      "contact_person": "محمد حنیف",
+      "contact_person": "عبداللہ عمر",
       "contact_label": "رابطے کے لیے",
       "publisher": "توحید ٹرسٹ (رجسٹرڈ)",
       "address": "مسجد توحید، آرجی ریلوے کالونی، توحید روڈ، کیماڑی، کراچی، پاکستان",
@@ -28,8 +28,7 @@
       "tel": "021-32850510",
       "fax": "021-32854484",
       "websites": [
-        "www.emanekhalis.com",
-        "www.therealislam.net"
+       "www.therealislam.net"
       ]
     },
     "chapters": [
@@ -87,11 +86,11 @@
     "basmala": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ",
     "title": "اصل کامیاب کون؟",
     "contact_label": "رابطے کے لیے",
-    "contact_person": "محمد حنیف",
+    "contact_person": "عبداللہ عمر",
     "publisher_logo_text": "توحید ٹرسٹ (رجسٹرڈ)",
     "address": "مسجد توحید، آرجی ریلوے کالونی، توحید روڈ، کیماڑی، کراچی، پاکستان",
     "contact_line_en": "Post Box: 7028, Tel: 021-32850510, Fax: 021-32854484.",
-    "web_line_en": "Web: www.emanekhalis.com, www.therealislam.net"
+    "web_line_en": "Web: www.therealislam.net, www.therealislam.net"
   },
   "block_types": {
     "basmala": "بسم اللہ",
