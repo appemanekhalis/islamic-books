@@ -9,7 +9,8 @@
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1lNxfFeTxig-ozzWVv1y4mYT9fqSkeOZy",
     "typeId": 5,
     "JsonFile": "https://raw.githubusercontent.com/appemanekhalis/islamic-books/main/Books/dawat_ilallah_f.json",
-    "AudioUrl": ""
+    "AudioUrl": "",
+    "order": 10
   },
   {
     "bookId": 2,
@@ -21,7 +22,8 @@
     "downloadUrl": "https://drive.google.com/uc?export=download&id=11H3yfu4fHWB_JxnDQOfKFHJDLCZvgeYT",
     "typeId": 5,
     "JsonFile": "https://raw.githubusercontent.com/appemanekhalis/islamic-books/main/Books/azab_e_barzakh_f.json",
-    "AudioUrl": ""
+    "AudioUrl": "",
+    "order": 10
   },
   {
     "bookId": 3,
@@ -33,7 +35,8 @@
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1eLG_PZp0eKsukb5ETOHpCQkB8Yj7fzO9",
     "typeId": 5,
     "JsonFile": "https://raw.githubusercontent.com/appemanekhalis/islamic-books/main/Books/taweezat_aur_shirk_f.json",
-    "AudioUrl": ""
+    "AudioUrl": "",
+    "order": 10
   },
   {
     "bookId": 4,
@@ -45,7 +48,8 @@
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1IDtBsJJkLZo40v9CSd6guyYJP2cgxcAs",
     "typeId": 5,
     "JsonFile": "https://raw.githubusercontent.com/appemanekhalis/islamic-books/main/Books/ahd_e_faramosh_f.json",
-    "AudioUrl": ""
+    "AudioUrl": "",
+    "order": 10
   },
   {
     "bookId": 5,
@@ -57,7 +61,8 @@
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1OTqgdpHk4YuIaNxedt5RBNguHbTw-oyJ",
     "typeId": 5,
     "JsonFile": "https://raw.githubusercontent.com/appemanekhalis/islamic-books/main/Books/yeh_selab_toofan_zalzale_f.json",
-    "AudioUrl": ""
+    "AudioUrl": "",
+    "order": 10
   },
   {
     "bookId": 6,
@@ -69,7 +74,8 @@
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1InxekUv9zDdw2TiK7mgbQqczI9kzUPT-",
     "typeId": 5,
     "JsonFile": "https://raw.githubusercontent.com/appemanekhalis/islamic-books/main/Books/falah_ka_rasta_f.json",
-    "AudioUrl": ""
+    "AudioUrl": "",
+    "order": 10
   },
   {
     "bookId": 7,
@@ -81,7 +87,8 @@
     "downloadUrl": "https://drive.google.com/uc?export=download&id=11bm57FSTseTr53PeQs7nnZJ3elGNkweB",
     "typeId": 5,
     "JsonFile": "",
-    "AudioUrl": ""
+    "AudioUrl": "",
+    "order": 20
   },
   {
     "bookId": 8,
@@ -93,7 +100,8 @@
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1czSc92LLA-3NyNHSwiNv28g6x4pTj7J8",
     "typeId": 5,
     "JsonFile": "https://raw.githubusercontent.com/appemanekhalis/islamic-books/main/Books/asal_kamyab_kaun_f.json",
-    "AudioUrl": ""
+    "AudioUrl": "",
+    "order": 10
   },
   {
     "bookId": 9,
@@ -105,7 +113,8 @@
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1MO-AXuOsvSwHbLUKW8wF9jhHy7W1hfvD",
     "typeId": 5,
     "JsonFile": "https://raw.githubusercontent.com/appemanekhalis/islamic-books/main/Books/waseele_ka_shirk_f.json",
-    "AudioUrl": ""
+    "AudioUrl": "",
+    "order": 10
   },
   {
     "bookId": 10,
@@ -117,7 +126,8 @@
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1TeehwF3FMOSQq2aEZrr8kX35Vl5kE0FK",
     "typeId": 5,
     "JsonFile": "",
-    "AudioUrl": ""
+    "AudioUrl": "",
+    "order": 21
   },
   {
     "bookId": 11,
@@ -129,7 +139,8 @@
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1S_9XD1YBjA76t-zwQ8aTKP4PSqJZN9La",
     "typeId": 5,
     "JsonFile": "",
-    "AudioUrl": ""
+    "AudioUrl": "",
+    "order": 22
   },
   {
     "bookId": 12,
@@ -141,7 +152,8 @@
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1o1K8kSBxuEbPgD2WJepTMETXXyarDwni",
     "typeId": 5,
     "JsonFile": "https://raw.githubusercontent.com/appemanekhalis/islamic-books/main/Books/nabi_aur_shuhada_zinda_hain_f.json",
-    "AudioUrl": ""
+    "AudioUrl": "",
+    "order": 10
   },
   {
     "bookId": 13,
@@ -153,7 +165,8 @@
     "downloadUrl": "https://drive.google.com/uc?export=download&id=19wfLjRs7aYPdEa24ug6xZxV69axlxrl3",
     "typeId": 5,
     "JsonFile": "",
-    "AudioUrl": ""
+    "AudioUrl": "",
+    "order": 23
   },
   {
     "bookId": 14,
@@ -165,42 +178,8 @@
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1I7CLralEkZvk10RgJiVYpnkGwKLJcJZ1",
     "typeId": 5,
     "JsonFile": "",
-    "AudioUrl": ""
-  },
-  {
-    "bookId": 15,
-    "bookNameAr": "",
-    "bookNameEn": "Makharij Haroof",
-    "bookNameUr": "مخارج حروف",
-    "coverImage": "",
-    "coverImageUrl": "",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1WUIl6PZZhEJZEyCWSSeKCUag6T9JM1NW",
-    "typeId": 5,
-    "JsonFile": "https://asd.com",
-    "AudioUrl": ""
-  },
-  {
-    "bookId": 16,
-    "bookNameAr": "",
-    "bookNameEn": "Khuthba Eid ur fitar",
-    "bookNameUr": "خطبہ عیدالفطر",
-    "coverImage": "",
-    "coverImageUrl": "",
-    "downloadUrl": "https://drive.google.com/file/d/1bKBJzb5Gdg3c2ns8NZeH83TLO-N7tPZL/view?usp=drive_link",
-    "typeId": 5,
-    "JsonFile": "https://asd.com",
-    "AudioUrl": ""
-  },
-  {
-    "bookId": 17,
-    "bookNameAr": "",
-    "bookNameEn": "Khuthba Eid ul Azha",
-    "bookNameUr": "خطبہ عید الاضحی",
-    "coverImage": "",
-    "coverImageUrl": "",
-    "downloadUrl": "https://drive.google.com/file/d/1hcHJBuEXDfSU-K6gE4sx7KlyoGNvIUXT/view?usp=drive_link",
-    "typeId": 5,
-    "JsonFile": "https://asd.com",
-    "AudioUrl": ""
+    "AudioUrl": "",
+    "order": 24
   }
+  
 ]
