@@ -180,6 +180,19 @@
     "JsonFile": "",
     "AudioUrl": "",
     "order": 24
+  },
+  {
+    "bookId": 14,
+    "bookNameAr": "",
+    "bookNameEn": "Deendari Ya Dukandari",
+    "bookNameUr": "دینداری یا دکاندری",
+    "coverImage": "",
+    "coverImageUrl": "",
+    "downloadUrl": "https://drive.google.com/file/d/1dDjkuZ3VNtbhV6a_xOVA2YzLnXV6I1Bu/view?usp=drive_link",
+    "typeId": 5,
+    "JsonFile": "",
+    "AudioUrl": "",
+    "order": 25
   }
   
 ]
