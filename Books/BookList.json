@@ -125,7 +125,7 @@
     "coverImageUrl": "",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1TeehwF3FMOSQq2aEZrr8kX35Vl5kE0FK",
     "typeId": 5,
-    "JsonFile": "",
+    "JsonFile": "https://raw.githubusercontent.com/appemanekhalis/islamic-books/main/Books/Salah_full_f.json",
     "AudioUrl": "",
     "order": 21
   },
@@ -193,6 +193,57 @@
     "JsonFile": "https://raw.githubusercontent.com/appemanekhalis/islamic-books/main/Books/dindari_ya_dukandari_f.json",
     "AudioUrl": "",
     "order": 25
+  },
+    {
+    "bookId": 15,
+    "bookNameAr": "",
+    "bookNameEn": "Eman e Khalis Part - 1",
+    "bookNameUr": "ایمان خالص۔ پہلی قسط",
+    "coverImage": "",
+    "coverImageUrl": "",
+    "downloadUrl": "https://drive.google.com/file/d/1hPELA431xA4rA0aTu2eEBQrSdadgVBFi/view?usp=drive_link",
+    "typeId": 5,
+    "JsonFile": "",
+    "AudioUrl": "",
+    "order": 25
+  },
+    {
+    "bookId": 15,
+    "bookNameAr": "",
+    "bookNameEn": "Eman e Khalis Part - 2",
+    "bookNameUr": "ایمان خالص۔ دوسری قسط",
+    "coverImage": "",
+    "coverImageUrl": "",
+    "downloadUrl": "https://drive.google.com/file/d/1ChWxhxWroKfrMrveJ0VZPdF8d_xRc6sC/view?usp=drive_link",
+    "typeId": 5,
+    "JsonFile": "",
+    "AudioUrl": "",
+    "order": 25
+  },
+    {
+    "bookId": 16,
+    "bookNameAr": "",
+    "bookNameEn": "Allah Ka Khar aur ya Darghahan",
+    "bookNameUr": "اللہ کا گھر اور یہ درگاہیں",
+    "coverImage": "",
+    "coverImageUrl": "",
+    "downloadUrl": "https://drive.google.com/file/d/1ChWxhxWroKfrMrveJ0VZPdF8d_xRc6sC/view?usp=drive_link",
+    "typeId": 5,
+    "JsonFile": "",
+    "AudioUrl": "",
+    "order": 25
+  },
+    {
+    "bookId": 17,
+    "bookNameAr": "",
+    "bookNameEn": "Ya Mazar Ya Malay",
+    "bookNameUr": "یہ مزار یہ میلے",
+    "coverImage": "",
+    "coverImageUrl": "",
+    "downloadUrl": "https://drive.google.com/file/d/1ChWxhxWroKfrMrveJ0VZPdF8d_xRc6sC/view?usp=drive_link",
+    "typeId": 5,
+    "JsonFile": "",
+    "AudioUrl": "",
+    "order": 25
   }
-  
 ]
