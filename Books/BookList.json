@@ -86,7 +86,7 @@
     "coverImageUrl": "",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=11bm57FSTseTr53PeQs7nnZJ3elGNkweB",
     "typeId": 5,
-    "JsonFile": "",
+    "JsonFile": "https://raw.githubusercontent.com/appemanekhalis/islamic-books/main/Books/Allah_ka_ghar_aur_yeh_dargahen_f.json",
     "AudioUrl": "",
     "order": 20
   },
@@ -190,7 +190,7 @@
     "coverImageUrl": "",
     "downloadUrl": "https://drive.google.com/file/d/1dDjkuZ3VNtbhV6a_xOVA2YzLnXV6I1Bu/view?usp=drive_link",
     "typeId": 5,
-    "JsonFile": "",
+    "JsonFile": "https://raw.githubusercontent.com/appemanekhalis/islamic-books/main/Books/dindari_ya_dukandari_f.json",
     "AudioUrl": "",
     "order": 25
   }
