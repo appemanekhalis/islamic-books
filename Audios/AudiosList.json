@@ -16,17 +16,47 @@
   {
     "audioId": 2,
     "titleAr": "",
-    "titleEn": "Rules of Tajweed & Quran Recitation",
-    "titleUr": "اصول تجوید و قرات القرآن فرنٹیئر کالونی",
-    "speaker": "شبیرعبداللہ",
+    "titleEn": "Momanon Ke Bahami Taalqaat Waseem Shah Markaz",
+    "titleUr": "مومنوں کے باہمی تعلقات وسیم شاہ مرکز",
+    "speaker": "وسیم شاہ",
     "type": "Dars",
     "coverImageUrl": "",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1w2JdGQ29bG8PU007Zw0_PCZy4AjdTkEu",
+    "downloadUrl": "https://drive.google.com/file/d/16FhwTUvnb_rxhUIOA3H5uiCRgFB81t--/view?usp=drive_link",
     "duration": "",
     "Location": "",
     "speakerSequence": 1,
     "order": 10
   },
+  {
+    "audioId": 2,
+    "titleAr": "",
+    "titleEn": "Question and Answer (Waseem Shah)",
+    "titleUr": "سوال و جواب (وسیم شاہ)",
+    "speaker": "وسیم شاہ",
+    "type": "Dars",
+    "coverImageUrl": "",
+    "downloadUrl": "https://drive.google.com/file/d/16FhwTUvnb_rxhUIOA3H5uiCRgFB81t--/view?usp=drive_link",
+    "duration": "",
+    "Location": "",
+    "speakerSequence": 1,
+    "order": 10
+  },
+  {
+    "audioId": 2,
+    "titleAr": "",
+    "titleEn": "Question and Answer (Waseem Shah)",
+    "titleUr": " ایمان کی ناقدری فیصل افضل",
+    "speaker": "فیصل افضل",
+    "type": "Dars",
+    "coverImageUrl": "",
+    "downloadUrl": "https://drive.google.com/file/d/1ihoAupG_0P-FtE0fAEWGT69N862Uvko-/view?usp=drive_link",
+    "duration": "",
+    "Location": "ابو الحسن اصفہانی",
+    "speakerSequence": 1,
+    "order": 10
+  },
+
+  
   {
     "audioId": 3,
     "titleAr": "",
