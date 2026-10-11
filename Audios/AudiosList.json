@@ -10,6 +10,7 @@
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1Tq9xiLExmVYi6xG4zFuLHeDhb_PSodOD",
     "duration": "",
     "Location": "",
+    "speakerSequence": 1,
     "order": 10
   },
   {
@@ -23,6 +24,7 @@
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1w2JdGQ29bG8PU007Zw0_PCZy4AjdTkEu",
     "duration": "",
     "Location": "",
+    "speakerSequence": 1,
     "order": 10
   },
   {
@@ -30,12 +32,13 @@
     "titleAr": "",
     "titleEn": "Ruling on Hijab",
     "titleUr": "حکم حجاب جمعہ منظور کالونی",
-    "speaker": "مقرر فیصل الرحمن",
+    "speaker": "فیصل الرحمن",
     "type": "Dars",
     "coverImageUrl": "",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1A70d4GrKdEEUV95JI1LqxdzkjZvNxWV1",
     "duration": "",
     "Location": "",
+    "speakerSequence": 1,
     "order": 10
   },
   {
@@ -49,6 +52,7 @@
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1ckuoM6LbLVO9RpsIKKP3jnrodXE5FiGc",
     "duration": "",
     "Location": "",
+    "speakerSequence": 1,
     "order": 10
   },
   {
@@ -62,6 +66,7 @@
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1dMtRXyVOpSf4PSO2KD5jW0okxMpC17hh",
     "duration": "",
     "Location": "",
+    "speakerSequence": 1,
     "order": 10
   },
   {
@@ -75,6 +80,7 @@
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1MAdSm3Db9H_7NB233pIiuTkWvbUPvE0L",
     "duration": "",
     "Location": "",
+    "speakerSequence": 1,
     "order": 10
   },
   {
@@ -88,6 +94,7 @@
     "downloadUrl": "https://drive.google.com/uc?export=download&id=REPLACE_WITH_DRIVE_FILE_ID",
     "duration": "",
     "Location": "",
+    "speakerSequence": 1,
     "order": 10
   },
   {
@@ -101,6 +108,7 @@
     "downloadUrl": "https://drive.google.com/uc?export=download&id=REPLACE_WITH_DRIVE_FILE_ID",
     "duration": "",
     "Location": "",
+    "speakerSequence": 1,
     "order": 10
   },
   {
@@ -114,6 +122,7 @@
     "downloadUrl": "https://drive.google.com/uc?export=download&id=REPLACE_WITH_DRIVE_FILE_ID",
     "duration": "",
     "Location": "",
+    "speakerSequence": 1,
     "order": 10
   },
   {
@@ -127,6 +136,7 @@
     "downloadUrl": "https://drive.google.com/uc?export=download&id=REPLACE_WITH_DRIVE_FILE_ID",
     "duration": "",
     "Location": "",
+    "speakerSequence": 1,
     "order": 10
   }
 ]
