@@ -80,7 +80,7 @@
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1dMtRXyVOpSf4PSO2KD5jW0okxMpC17hh",
     "duration": "",
     "Location": "",
-    "speakerSequence": 3,
+    "speakerSequence": 0,
     "order": 10
   },
   {
@@ -164,7 +164,7 @@
     "downloadUrl": "https://drive.google.com/uc?export=download&id=15ETFFSbxp7XoPITvk-971HZ6XHQCN-K6",
     "duration": "56:44",
     "Location": "",
-    "speakerSequence": 3,
+    "speakerSequence": 0,
     "order": 10
   },
   {
@@ -290,7 +290,7 @@
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1Sr0TUCe2be6CR8kLMKt-pP40jHUjOEB2",
     "duration": "30:28",
     "Location": "",
-    "speakerSequence": 11,
+    "speakerSequence": 12,
     "order": 10
   },
   {
@@ -304,7 +304,7 @@
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1mVHM4hHrIJ6OYFA4LaJRTScuqhdKBi3s",
     "duration": "1:10:41",
     "Location": "",
-    "speakerSequence": 1,
+    "speakerSequence": 13,
     "order": 10
   },
   {
@@ -340,13 +340,13 @@
     "titleAr": "",
     "titleEn": "Fitna Inkar-e-Hadees aur Munkireen-e-Hadees ki Mughata Arian",
     "titleUr": "فتنہ انکارِ حدیث اور منکرینِ حدیث کی مغالطہ آرائیاں",
-    "speaker": "",
+    "speaker": "سعدسہیل",
     "type": "Dars",
     "coverImageUrl": "",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1XC7QEdhqzM32dAnGgGqt5tfIsfqAljoC",
     "duration": "45:50",
     "Location": "",
-    "speakerSequence": 1,
+    "speakerSequence": 12,
     "order": 10
   },
   {
@@ -354,7 +354,7 @@
     "titleAr": "",
     "titleEn": "Ha Meem Al-Sijdah",
     "titleUr": "حم السجدہ",
-    "speaker": "",
+    "speaker": "ڈاکٹر عثمانی",
     "type": "Dars",
     "coverImageUrl": "",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1vphdd0BBB8e-AxI7JjOfEtKi6D7NXai7",
@@ -368,13 +368,13 @@
     "titleAr": "",
     "titleEn": "Haar aur Jeet ka Din",
     "titleUr": "ہار اور جیت کا دن",
-    "speaker": "",
+        "speaker": "محمدمشتاق",
     "type": "Dars",
     "coverImageUrl": "",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1RCtDFdMUf5N8A91B5ImhEXqna3kg31cg",
     "duration": "45:15",
     "Location": "",
-    "speakerSequence": 1,
+    "speakerSequence": 11,
     "order": 10
   },
   {
@@ -396,13 +396,13 @@
     "titleAr": "",
     "titleEn": "Inkar-e-Hadees",
     "titleUr": "انکارِ حدیث",
-    "speaker": "",
+       "speaker": "سعد سہیل",
     "type": "Dars",
     "coverImageUrl": "",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1W4-XMWa74iVjanpq_s5LLISI9LMq0Nih",
     "duration": "49:40",
     "Location": "",
-    "speakerSequence": 1,
+    "speakerSequence": 12,
     "order": 10
   },
   {
@@ -410,7 +410,7 @@
     "titleAr": "",
     "titleEn": "Jinhon ne Kaha K Hamara Rub Allah Hay",
     "titleUr": "جنہوں نے کہا کہ ہمارا رب اللہ ہے",
-    "speaker": "",
+       "speaker": "ڈاکٹر عثمانی",
     "type": "Dars",
     "coverImageUrl": "",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1Yccgk9z4jFX_WfbwHOqEit11th8nCCl1",
@@ -424,13 +424,13 @@
     "titleAr": "",
     "titleEn": "Khushki aur Tari Main ye Azabat Allah ki Nafarmani ka Natija Hain",
     "titleUr": "خشکی اور تری میں یہ عذابات اللہ کی نافرمانی کا نتیجہ ہیں",
-    "speaker": "",
+       "speaker": "جبران بیگ",
     "type": "Dars",
     "coverImageUrl": "",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1Xv_kGupl8l2tn_6KgCy0iGvOA2-qFJwJ",
     "duration": "31:42",
     "Location": "",
-    "speakerSequence": 1,
+    "speakerSequence": 12,
     "order": 10
   },
   {
@@ -438,13 +438,13 @@
     "titleAr": "",
     "titleEn": "Kya Tayyari Kerli Hay",
     "titleUr": "کیا تیاری کر لی ہے",
-    "speaker": "",
+       "speaker": "عبدالرؤف",
     "type": "Dars",
     "coverImageUrl": "",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1vAKeadaEaVCuOmmB5tB7sog8KCA3yx-x",
     "duration": "40:10",
     "Location": "",
-    "speakerSequence": 1,
+    "speakerSequence": 12,
     "order": 10
   },
   {
@@ -458,7 +458,7 @@
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1bi45Tu4hP6hIkdUE27Cef3kzMiZcnzUU",
     "duration": "53:53",
     "Location": "",
-    "speakerSequence": 1,
+    "speakerSequence": 12,
     "order": 10
   },
   {
@@ -466,13 +466,13 @@
     "titleAr": "",
     "titleEn": "Masla e Takfeer",
     "titleUr": "مسئلہ تکفیر",
-    "speaker": "",
+       "speaker": "وسیم شاہ",
     "type": "Dars",
     "coverImageUrl": "",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1_z7lqr1MJBl7fgJlWtlei2RmFy42EC2-",
     "duration": "56:08",
     "Location": "",
-    "speakerSequence": 1,
+    "speakerSequence": 10,
     "order": 10
   },
   {
@@ -480,13 +480,13 @@
     "titleAr": "",
     "titleEn": "Mojoda Aalami Halaat aur Toubah ki Ehmiyat wa Zarurat",
     "titleUr": "موجودہ عالمی حالات اور توبہ کی اہمیت و ضرورت",
-    "speaker": "",
+       "speaker": "وسیم شاہ",
     "type": "Dars",
     "coverImageUrl": "",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1tlmsjtYQ-gZwYL04e-y84XQLn-2sdYYR",
     "duration": "24:07",
     "Location": "",
-    "speakerSequence": 1,
+    "speakerSequence": 10,
     "order": 10
   },
   {
@@ -494,13 +494,13 @@
     "titleAr": "",
     "titleEn": "Momin her Qism ki Asbiyat se Azad Hota Hay",
     "titleUr": "مومن ہر قسم کی عصبیت سے آزاد ہوتا ہے",
-    "speaker": "",
+       "speaker": "وسیم شاہ",
     "type": "Dars",
     "coverImageUrl": "",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1ch8bj0x87hnewcfH-fv0BF_6u5rnRe6C",
     "duration": "37:46",
     "Location": "",
-    "speakerSequence": 1,
+    "speakerSequence": 10,
     "order": 10
   },
   {
@@ -508,13 +508,13 @@
     "titleAr": "",
     "titleEn": "Mout ko Kasrat se Yaad Karo",
     "titleUr": "موت کو کثرت سے یاد کرو",
-    "speaker": "",
+       "speaker": "عبدالرؤف",
     "type": "Dars",
     "coverImageUrl": "",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1tlNSNQld_AlQPCerik70LEYWg8rPshzg",
     "duration": "28:05",
     "Location": "",
-    "speakerSequence": 1,
+    "speakerSequence": 12,
     "order": 10
   },
   {
@@ -522,13 +522,13 @@
     "titleAr": "",
     "titleEn": "Mushajarat e Sahaba",
     "titleUr": "مشاجراتِ صحابہ",
-    "speaker": "",
+       "speaker": "Abdul Raziq",
     "type": "Dars",
     "coverImageUrl": "",
-    "downloadUrl": "https://drive.usercontent.google.com/download?id=1oej08ASyylmX8u7JoqfMfLnvo0TqC6Om&export=download&confirm=t",
+    "downloadUrl": "https://drive.google.com/file/d/1oej08ASyylmX8u7JoqfMfLnvo0TqC6Om/view?usp=drive_link",
     "duration": "1:19:37",
     "Location": "",
-    "speakerSequence": 1,
+    "speakerSequence": 12,
     "order": 10
   },
   {
@@ -536,13 +536,13 @@
     "titleAr": "",
     "titleEn": "Mushrikeen-e-Makkah Aur Hum",
     "titleUr": "مشرکینِ مکہ اور ہم",
-    "speaker": "",
+       "speaker": "محمدی گل",
     "type": "Dars",
     "coverImageUrl": "",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=16jkHlY0V9_o5m5wqcVa-wP-V8nnNjwol",
     "duration": "1:05:14",
     "Location": "",
-    "speakerSequence": 1,
+    "speakerSequence": 4,
     "order": 10
   },
   {
@@ -564,7 +564,7 @@
     "titleAr": "",
     "titleEn": "Pakistan aur La Ilaaha Illalah k Taqazay",
     "titleUr": "پاکستان اور لا الٰہ الا اللہ کے تقاضے",
-    "speaker": "",
+       "speaker": "امیرجماعت(عبداللہ عمر)",
     "type": "Dars",
     "coverImageUrl": "",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1n5OSYmUgFh0SwLaq5qDX4XYe3_kOiI2d",
@@ -578,13 +578,13 @@
     "titleAr": "",
     "titleEn": "Qadyani Kafir Hain",
     "titleUr": "قادیانی کافر ہیں",
-    "speaker": "",
+       "speaker": "امیرجماعت(عبداللہ عمر)",
     "type": "Dars",
     "coverImageUrl": "",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1QCimPwe2VcVzyEJWLxyBvn1buuGU5dw0",
     "duration": "54:53",
     "Location": "",
-    "speakerSequence": 1,
+    "speakerSequence": 0,
     "order": 10
   },
   {
@@ -592,13 +592,13 @@
     "titleAr": "",
     "titleEn": "Qoumain Kyon Tabah Hoti Hain",
     "titleUr": "قومیں کیوں تباہ ہوتی ہیں",
-    "speaker": "",
+       "speaker": "امیرجماعت(عبداللہ عمر)",
     "type": "Dars",
     "coverImageUrl": "",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1FF7cUF3PtXb3pq0lfLOYRG-X27IB6pdW",
     "duration": "28:45",
     "Location": "",
-    "speakerSequence": 1,
+    "speakerSequence": 0,
     "order": 10
   },
   {
@@ -606,13 +606,13 @@
     "titleAr": "",
     "titleEn": "Quran Hujjat Hay",
     "titleUr": "قرآن حجت ہے",
-    "speaker": "",
+       "speaker": "سعد سہیل",
     "type": "Dars",
     "coverImageUrl": "",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1ctiKjEJ9MNHJ1VJ9qRavPnE-05sEq4FX",
     "duration": "53:53",
     "Location": "",
-    "speakerSequence": 1,
+    "speakerSequence": 12,
     "order": 10
   },
   {
@@ -620,13 +620,13 @@
     "titleAr": "",
     "titleEn": "Qurbe Qiyamat Fitnon ka Zahoor",
     "titleUr": "قربِ قیامت فتنوں کا ظہور",
-    "speaker": "",
+       "speaker": "امیرجماعت(عبداللہ عمر)",
     "type": "Dars",
     "coverImageUrl": "",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=10TFxF9yjGg_EeUMKrYlPm8gsFlbayM6l",
     "duration": "39:26",
     "Location": "",
-    "speakerSequence": 1,
+    "speakerSequence": 0,
     "order": 10
   },
   {
@@ -634,13 +634,13 @@
     "titleAr": "",
     "titleEn": "Rasool ﷺ ki Mukhalifat K Dunyawi Wa Ukhrawi Nuqsanat",
     "titleUr": "رسول ﷺ کی مخالفت کے دنیوی و اخروی نقصانات",
-    "speaker": "",
+       "speaker": "وسیم شاہ",
     "type": "Dars",
     "coverImageUrl": "",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1LuiF-70NdzD7DVEd056fVeoqtNixQP5Z",
     "duration": "26:33",
     "Location": "",
-    "speakerSequence": 1,
+    "speakerSequence": 10,
     "order": 10
   },
   {
@@ -648,13 +648,13 @@
     "titleAr": "",
     "titleEn": "Saat Loog jo Qiamat k Din Allah k Saey Main Hongay",
     "titleUr": "سات لوگ جو قیامت کے دن اللہ کے سائے میں ہوں گے",
-    "speaker": "",
+       "speaker": "امیرجماعت(عبداللہ عمر)",
     "type": "Dars",
     "coverImageUrl": "",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1xedHFfJs_oIX_xytAqR_PiEARky5in4P",
     "duration": "1:11:53",
     "Location": "",
-    "speakerSequence": 1,
+    "speakerSequence": 0,
     "order": 10
   },
   {
@@ -662,13 +662,13 @@
     "titleAr": "",
     "titleEn": "Shab-e-Baraat ki Haqiqat",
     "titleUr": "شبِ برات کی حقیقت",
-    "speaker": "",
+       "speaker": "وسیم شاہ",
     "type": "Dars",
     "coverImageUrl": "",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1Hinz3X8RV75ZUaK3hLfEtCk0ONXBZyGP",
     "duration": "25:23",
     "Location": "",
-    "speakerSequence": 1,
+    "speakerSequence": 10,
     "order": 10
   },
   {
@@ -682,7 +682,7 @@
     "downloadUrl": "https://drive.google.com/uc?export=download&id=191HakFsdSoqVL3ETwyA_Y9laXx367uDO",
     "duration": "1:00:59",
     "Location": "",
-    "speakerSequence": 1,
+    "speakerSequence": 12,
     "order": 10
   },
   {
@@ -690,7 +690,7 @@
     "titleAr": "",
     "titleEn": "Soofiya ne Islam Nahin Shirk Phelaya",
     "titleUr": "صوفیاء نے اسلام نہیں شرک پھیلایا",
-    "speaker": "",
+       "speaker": "محمد حنیف",
     "type": "Dars",
     "coverImageUrl": "",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1LzOgeVIXmYMxLz7DKkydyH6mTz5oNlQR",
@@ -704,13 +704,13 @@
     "titleAr": "",
     "titleEn": "Sunnat-e-Ibraheemi",
     "titleUr": "سنتِ ابراہیمی",
-    "speaker": "",
+       "speaker": "نصیب اللہ",
     "type": "Dars",
     "coverImageUrl": "",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1FhieVBBVDOuJwefA1-QeCdCmYMwjwBQk",
     "duration": "47:26",
     "Location": "",
-    "speakerSequence": 1,
+    "speakerSequence": 12,
     "order": 10
   }
 ]
