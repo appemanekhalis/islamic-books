@@ -216,7 +216,7 @@
     "coverImageUrl": "",
     "downloadUrl": "https://drive.google.com/file/d/1ChWxhxWroKfrMrveJ0VZPdF8d_xRc6sC/view?usp=drive_link",
     "typeId": 5,
-    "JsonFile": "",
+    "JsonFile": "https://raw.githubusercontent.com/appemanekhalis/islamic-books/main/Books/iman_e_khalis_qist2 (فائنل).json",
     "AudioUrl": "",
     "order": 25
   },
@@ -255,7 +255,7 @@
     "coverImageUrl": "",
     "downloadUrl": "https://drive.google.com/file/d/1zjBCeInp6c73_A87dBggdO4GnZIJ0kZE/view?usp=drive_link",
     "typeId": 5,
-    "JsonFile": "",
+    "JsonFile": "https://raw.githubusercontent.com/appemanekhalis/islamic-books/main/Books/wafat_khatam_ur_rusul (فائنل).json",
     "AudioUrl": "",
     "order": 25
   },
@@ -268,7 +268,7 @@
     "coverImageUrl": "",
     "downloadUrl": "https://drive.google.com/file/d/1g8tRvhTFEEgUkAI1ct42Ew7dA-PuKXWR/view?usp=drive_link",
     "typeId": 5,
-    "JsonFile": "",
+    "JsonFile": "https://raw.githubusercontent.com/appemanekhalis/islamic-books/main/Books/mominon_ke_bahami_talluqat (فائنل).json",
     "AudioUrl": "",
     "order": 25
   }
