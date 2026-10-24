@@ -1,0 +1,1142 @@
+[
+  {
+    "chapterId": 1,
+    "bookId": 1,
+    "chapterNameAr": "الفاتحة",
+    "chapterNameEn": "Al-Fatihah",
+    "chapterNameUr": "الفاتحہ",
+    "verseCount": 7,
+    "pageNo": 1,
+    "downloadUrl": "https://drive.google.com/file/d/102qrJpRWUsvj7kQlaahxKPXQ4r7c2qjF/view"
+  },
+  {
+    "chapterId": 2,
+    "bookId": 1,
+    "chapterNameAr": "البقرة",
+    "chapterNameEn": "Al-Baqarah",
+    "chapterNameUr": "البقرہ",
+    "verseCount": 286,
+    "pageNo": 2,
+    "downloadUrl": "https://drive.google.com/file/d/1vyyqZLrWhirrRTtXcer1xG4Md6SQ3lbN/view"
+  },
+  {
+    "chapterId": 3,
+    "bookId": 1,
+    "chapterNameAr": "آل عمران",
+    "chapterNameEn": "Aal-E-Imran",
+    "chapterNameUr": "آل عمران",
+    "verseCount": 200,
+    "pageNo": 50,
+    "downloadUrl": "https://drive.google.com/file/d/1BCsayTmgpKk_8_d6EhEV3D0thxSIIuMz/view"
+  },
+  {
+    "chapterId": 4,
+    "bookId": 1,
+    "chapterNameAr": "النساء",
+    "chapterNameEn": "An-Nisa",
+    "chapterNameUr": "النساء",
+    "verseCount": 176,
+    "pageNo": 77,
+    "downloadUrl": "https://drive.google.com/file/d/1CtpIJwiiwbpGjb-IRpSmZnjIwHrHIanq/view"
+  },
+  {
+    "chapterId": 5,
+    "bookId": 1,
+    "chapterNameAr": "المائدة",
+    "chapterNameEn": "Al-Maidah",
+    "chapterNameUr": "المائدہ",
+    "verseCount": 120,
+    "pageNo": 106,
+    "downloadUrl": "https://drive.google.com/file/d/1tebfX3--TsmZLhIHaK8Se6cY1DW3wBJ_/view"
+  },
+  {
+    "chapterId": 6,
+    "bookId": 1,
+    "chapterNameAr": "الأنعام",
+    "chapterNameEn": "Al-An'am",
+    "chapterNameUr": "الانعام",
+    "verseCount": 165,
+    "pageNo": 128,
+    "downloadUrl": "https://drive.google.com/file/d/1GDBeWyUE6sovcTXhUw4lMCMXXQI3IzS7/view"
+  },
+  {
+    "chapterId": 7,
+    "bookId": 1,
+    "chapterNameAr": "الأعراف",
+    "chapterNameEn": "Al-A'raf",
+    "chapterNameUr": "الاعراف",
+    "verseCount": 206,
+    "pageNo": 151,
+    "downloadUrl": "https://drive.google.com/file/d/1Z_xuqofcM-rDfHJzdhhy5iU1tMmU-6m3/view"
+  },
+  {
+    "chapterId": 8,
+    "bookId": 1,
+    "chapterNameAr": "الأنفال",
+    "chapterNameEn": "Al-Anfal",
+    "chapterNameUr": "الانفال",
+    "verseCount": 75,
+    "pageNo": 177,
+    "downloadUrl": "https://drive.google.com/file/d/1TI0OfExRxDIBURCxNoLTLOB5jtcbBwKM/view"
+  },
+  {
+    "chapterId": 9,
+    "bookId": 1,
+    "chapterNameAr": "التوبة",
+    "chapterNameEn": "At-Tawbah",
+    "chapterNameUr": "التوبہ",
+    "verseCount": 129,
+    "pageNo": 187,
+    "downloadUrl": "https://drive.google.com/file/d/1ty7QC5LeBzWx2lKE520VYUcVi70lYAEf/view?usp=drive_link"
+  },
+  {
+    "chapterId": 10,
+    "bookId": 1,
+    "chapterNameAr": "يونس",
+    "chapterNameEn": "Yunus",
+    "chapterNameUr": "یونس",
+    "verseCount": 109,
+    "pageNo": 208,
+    "downloadUrl": "https://drive.google.com/file/d/1no-HH6GPAD5qRR6My0PuYAK4sjPnZfYi/view?usp=drive_link"
+  },
+  {
+    "chapterId": 11,
+    "bookId": 1,
+    "chapterNameAr": "هود",
+    "chapterNameEn": "Hud",
+    "chapterNameUr": "ہود",
+    "verseCount": 123,
+    "pageNo": 221,
+    "downloadUrl": "https://drive.google.com/file/d/14w2N9GefDVau5W4vYoDO-yRq-WhHCwX5/view?usp=drive_link"
+  },
+  {
+    "chapterId": 12,
+    "bookId": 1,
+    "chapterNameAr": "يوسف",
+    "chapterNameEn": "Yusuf",
+    "chapterNameUr": "یوسف",
+    "verseCount": 111,
+    "pageNo": 235,
+    "downloadUrl": "https://drive.google.com/file/d/18ckYPBqtcUw7G9IU34mTIrkRnYM4n9SO/view?usp=drive_link"
+  },
+  {
+    "chapterId": 13,
+    "bookId": 1,
+    "chapterNameAr": "الرعد",
+    "chapterNameEn": "Ar-Ra'd",
+    "chapterNameUr": "الرعد",
+    "verseCount": 43,
+    "pageNo": 249,
+    "downloadUrl": "https://drive.google.com/file/d/1jhtQrWLB_b7e6q7orrOpTUPOfld7Q9PE/view?usp=drive_link"
+  },
+  {
+    "chapterId": 14,
+    "bookId": 1,
+    "chapterNameAr": "ابراهيم",
+    "chapterNameEn": "Ibrahim",
+    "chapterNameUr": "ابراہیم",
+    "verseCount": 52,
+    "pageNo": 255,
+    "downloadUrl": "https://drive.google.com/file/d/1Il-he_dCx22d4yTDqw3Zv3php-jL9T3R/view?usp=drive_link"
+  },
+  {
+    "chapterId": 15,
+    "bookId": 1,
+    "chapterNameAr": "الحجر",
+    "chapterNameEn": "Al-Hijr",
+    "chapterNameUr": "الحجر",
+    "verseCount": 99,
+    "pageNo": 262,
+    "downloadUrl": "https://drive.google.com/file/d/1De81mis2Xjz-3BoJHVmlV0fewM_okocO/view?usp=drive_link"
+  },
+  {
+    "chapterId": 16,
+    "bookId": 1,
+    "chapterNameAr": "النحل",
+    "chapterNameEn": "An-Nahl",
+    "chapterNameUr": "النحل",
+    "verseCount": 128,
+    "pageNo": 267,
+    "downloadUrl": "https://drive.google.com/file/d/1C8GxVz7O4acWD61-8SfBvEy69JAoXOFa/view?usp=drive_link"
+  },
+  {
+    "chapterId": 17,
+    "bookId": 1,
+    "chapterNameAr": "الإسراء",
+    "chapterNameEn": "Al-Isra",
+    "chapterNameUr": "الاسراء",
+    "verseCount": 111,
+    "pageNo": 282,
+    "downloadUrl": "https://drive.google.com/file/d/1vv37ccKyCmbUl6kELjA-g_94j70f4btu/view?usp=drive_link"
+  },
+  {
+    "chapterId": 18,
+    "bookId": 1,
+    "chapterNameAr": "الكهف",
+    "chapterNameEn": "Al-Kahf",
+    "chapterNameUr": "الکہف",
+    "verseCount": 110,
+    "pageNo": 293,
+    "downloadUrl": "https://drive.google.com/file/d/1wdQSD1hMtgzx1aNTry1B6jSPex09Q-1S/view?usp=drive_link"
+  },
+  {
+    "chapterId": 19,
+    "bookId": 1,
+    "chapterNameAr": "مريم",
+    "chapterNameEn": "Maryam",
+    "chapterNameUr": "مریم",
+    "verseCount": 98,
+    "pageNo": 305,
+    "downloadUrl": "https://drive.google.com/file/d/1LOV5Mp038D5H3R1r_Nq56-c_MgdCcisq/view?usp=drive_link"
+  },
+  {
+    "chapterId": 20,
+    "bookId": 1,
+    "chapterNameAr": "طه",
+    "chapterNameEn": "Taha",
+    "chapterNameUr": "طٰہ",
+    "verseCount": 135,
+    "pageNo": 312,
+    "downloadUrl": "https://drive.google.com/file/d/1q0cwkTzr_G0EHN2mIkGkSR3c9yjyo59z/view?usp=drive_link"
+  },
+  {
+    "chapterId": 21,
+    "bookId": 1,
+    "chapterNameAr": "الأنبياء",
+    "chapterNameEn": "Al-Anbiya",
+    "chapterNameUr": "الانبیاء",
+    "verseCount": 112,
+    "pageNo": 322,
+    "downloadUrl": "https://drive.google.com/file/d/1EkUfOXS-F6f9E82E0Sl2K92hPsptgpni/view?usp=drive_link"
+  },
+  {
+    "chapterId": 22,
+    "bookId": 1,
+    "chapterNameAr": "الحج",
+    "chapterNameEn": "Al-Hajj",
+    "chapterNameUr": "الحج",
+    "verseCount": 78,
+    "pageNo": 332,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 23,
+    "bookId": 1,
+    "chapterNameAr": "المؤمنون",
+    "chapterNameEn": "Al-Mu'minun",
+    "chapterNameUr": "المومنون",
+    "verseCount": 118,
+    "pageNo": 342,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 24,
+    "bookId": 1,
+    "chapterNameAr": "النور",
+    "chapterNameEn": "An-Nur",
+    "chapterNameUr": "النور",
+    "verseCount": 64,
+    "pageNo": 350,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 25,
+    "bookId": 1,
+    "chapterNameAr": "الفرقان",
+    "chapterNameEn": "Al-Furqan",
+    "chapterNameUr": "الفرقان",
+    "verseCount": 77,
+    "pageNo": 359,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 26,
+    "bookId": 1,
+    "chapterNameAr": "الشعراء",
+    "chapterNameEn": "Ash-Shu'ara",
+    "chapterNameUr": "الشعراء",
+    "verseCount": 227,
+    "pageNo": 367,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 27,
+    "bookId": 1,
+    "chapterNameAr": "النمل",
+    "chapterNameEn": "An-Naml",
+    "chapterNameUr": "النمل",
+    "verseCount": 93,
+    "pageNo": 377,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 28,
+    "bookId": 1,
+    "chapterNameAr": "القصص",
+    "chapterNameEn": "Al-Qasas",
+    "chapterNameUr": "القصص",
+    "verseCount": 88,
+    "pageNo": 385,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 29,
+    "bookId": 1,
+    "chapterNameAr": "العنكبوت",
+    "chapterNameEn": "Al-Ankabut",
+    "chapterNameUr": "العنکبوت",
+    "verseCount": 69,
+    "pageNo": 396,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 30,
+    "bookId": 1,
+    "chapterNameAr": "الروم",
+    "chapterNameEn": "Ar-Rum",
+    "chapterNameUr": "الروم",
+    "verseCount": 60,
+    "pageNo": 404,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 31,
+    "bookId": 1,
+    "chapterNameAr": "لقمان",
+    "chapterNameEn": "Luqman",
+    "chapterNameUr": "لقمان",
+    "verseCount": 34,
+    "pageNo": 411,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 32,
+    "bookId": 1,
+    "chapterNameAr": "السجدة",
+    "chapterNameEn": "As-Sajdah",
+    "chapterNameUr": "السجدہ",
+    "verseCount": 30,
+    "pageNo": 415,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 33,
+    "bookId": 1,
+    "chapterNameAr": "الأحزاب",
+    "chapterNameEn": "Al-Ahzab",
+    "chapterNameUr": "الاحزاب",
+    "verseCount": 73,
+    "pageNo": 418,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 34,
+    "bookId": 1,
+    "chapterNameAr": "سبإ",
+    "chapterNameEn": "Saba",
+    "chapterNameUr": "سبا",
+    "verseCount": 54,
+    "pageNo": 428,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 35,
+    "bookId": 1,
+    "chapterNameAr": "فاطر",
+    "chapterNameEn": "Fatir",
+    "chapterNameUr": "فاطر",
+    "verseCount": 45,
+    "pageNo": 434,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 36,
+    "bookId": 1,
+    "chapterNameAr": "يس",
+    "chapterNameEn": "Ya-Sin",
+    "chapterNameUr": "یٰس",
+    "verseCount": 83,
+    "pageNo": 440,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 37,
+    "bookId": 1,
+    "chapterNameAr": "الصافات",
+    "chapterNameEn": "As-Saffat",
+    "chapterNameUr": "الصافات",
+    "verseCount": 182,
+    "pageNo": 446,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 38,
+    "bookId": 1,
+    "chapterNameAr": "ص",
+    "chapterNameEn": "Sad",
+    "chapterNameUr": "ص",
+    "verseCount": 88,
+    "pageNo": 453,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 39,
+    "bookId": 1,
+    "chapterNameAr": "الزمر",
+    "chapterNameEn": "Az-Zumar",
+    "chapterNameUr": "الزمر",
+    "verseCount": 75,
+    "pageNo": 458,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 40,
+    "bookId": 1,
+    "chapterNameAr": "غافر",
+    "chapterNameEn": "Ghafir",
+    "chapterNameUr": "غافر",
+    "verseCount": 85,
+    "pageNo": 467,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 41,
+    "bookId": 1,
+    "chapterNameAr": "فصلت",
+    "chapterNameEn": "Fussilat",
+    "chapterNameUr": "فصلت",
+    "verseCount": 54,
+    "pageNo": 477,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 42,
+    "bookId": 1,
+    "chapterNameAr": "الشورى",
+    "chapterNameEn": "Ash-Shura",
+    "chapterNameUr": "الشوریٰ",
+    "verseCount": 53,
+    "pageNo": 483,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 43,
+    "bookId": 1,
+    "chapterNameAr": "الزخرف",
+    "chapterNameEn": "Az-Zukhruf",
+    "chapterNameUr": "الزخرف",
+    "verseCount": 89,
+    "pageNo": 489,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 44,
+    "bookId": 1,
+    "chapterNameAr": "الدخان",
+    "chapterNameEn": "Ad-Dukhan",
+    "chapterNameUr": "الدخان",
+    "verseCount": 59,
+    "pageNo": 496,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 45,
+    "bookId": 1,
+    "chapterNameAr": "الجاثية",
+    "chapterNameEn": "Al-Jathiyah",
+    "chapterNameUr": "الجاثیہ",
+    "verseCount": 37,
+    "pageNo": 499,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 46,
+    "bookId": 1,
+    "chapterNameAr": "الأحقاف",
+    "chapterNameEn": "Al-Ahqaf",
+    "chapterNameUr": "الاحقاف",
+    "verseCount": 35,
+    "pageNo": 502,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 47,
+    "bookId": 1,
+    "chapterNameAr": "محمد",
+    "chapterNameEn": "Muhammad",
+    "chapterNameUr": "محمد",
+    "verseCount": 38,
+    "pageNo": 507,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 48,
+    "bookId": 1,
+    "chapterNameAr": "الفتح",
+    "chapterNameEn": "Al-Fath",
+    "chapterNameUr": "الفتح",
+    "verseCount": 29,
+    "pageNo": 511,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 49,
+    "bookId": 1,
+    "chapterNameAr": "الحجرات",
+    "chapterNameEn": "Al-Hujurat",
+    "chapterNameUr": "الحجرات",
+    "verseCount": 18,
+    "pageNo": 515,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 50,
+    "bookId": 1,
+    "chapterNameAr": "ق",
+    "chapterNameEn": "Qaf",
+    "chapterNameUr": "ق",
+    "verseCount": 45,
+    "pageNo": 518,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 51,
+    "bookId": 1,
+    "chapterNameAr": "الذاريات",
+    "chapterNameEn": "Adh-Dhariyat",
+    "chapterNameUr": "الذاریات",
+    "verseCount": 60,
+    "pageNo": 520,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 52,
+    "bookId": 1,
+    "chapterNameAr": "الطور",
+    "chapterNameEn": "At-Tur",
+    "chapterNameUr": "الطور",
+    "verseCount": 49,
+    "pageNo": 523,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 53,
+    "bookId": 1,
+    "chapterNameAr": "النجم",
+    "chapterNameEn": "An-Najm",
+    "chapterNameUr": "النجم",
+    "verseCount": 62,
+    "pageNo": 526,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 54,
+    "bookId": 1,
+    "chapterNameAr": "القمر",
+    "chapterNameEn": "Al-Qamar",
+    "chapterNameUr": "القمر",
+    "verseCount": 55,
+    "pageNo": 528,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 55,
+    "bookId": 1,
+    "chapterNameAr": "الرحمن",
+    "chapterNameEn": "Ar-Rahman",
+    "chapterNameUr": "الرحمٰن",
+    "verseCount": 78,
+    "pageNo": 531,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 56,
+    "bookId": 1,
+    "chapterNameAr": "الواقعة",
+    "chapterNameEn": "Al-Waqi'ah",
+    "chapterNameUr": "الواقعہ",
+    "verseCount": 96,
+    "pageNo": 534,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 57,
+    "bookId": 1,
+    "chapterNameAr": "الحديد",
+    "chapterNameEn": "Al-Hadid",
+    "chapterNameUr": "الحدید",
+    "verseCount": 29,
+    "pageNo": 537,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 58,
+    "bookId": 1,
+    "chapterNameAr": "المجادلة",
+    "chapterNameEn": "Al-Mujadila",
+    "chapterNameUr": "المجادلہ",
+    "verseCount": 22,
+    "pageNo": 542,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 59,
+    "bookId": 1,
+    "chapterNameAr": "الحشر",
+    "chapterNameEn": "Al-Hashr",
+    "chapterNameUr": "الحشر",
+    "verseCount": 24,
+    "pageNo": 545,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 60,
+    "bookId": 1,
+    "chapterNameAr": "الممتحنة",
+    "chapterNameEn": "Al-Mumtahana",
+    "chapterNameUr": "الممتحنہ",
+    "verseCount": 13,
+    "pageNo": 549,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 61,
+    "bookId": 1,
+    "chapterNameAr": "الصف",
+    "chapterNameEn": "As-Saff",
+    "chapterNameUr": "الصف",
+    "verseCount": 14,
+    "pageNo": 551,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 62,
+    "bookId": 1,
+    "chapterNameAr": "الجمعة",
+    "chapterNameEn": "Al-Jumu'ah",
+    "chapterNameUr": "الجمعہ",
+    "verseCount": 11,
+    "pageNo": 553,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 63,
+    "bookId": 1,
+    "chapterNameAr": "المنافقون",
+    "chapterNameEn": "Al-Munafiqun",
+    "chapterNameUr": "المنافقون",
+    "verseCount": 11,
+    "pageNo": 554,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 64,
+    "bookId": 1,
+    "chapterNameAr": "التغابن",
+    "chapterNameEn": "At-Taghabun",
+    "chapterNameUr": "التغابن",
+    "verseCount": 18,
+    "pageNo": 556,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 65,
+    "bookId": 1,
+    "chapterNameAr": "الطلاق",
+    "chapterNameEn": "At-Talaq",
+    "chapterNameUr": "الطلاق",
+    "verseCount": 12,
+    "pageNo": 558,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 66,
+    "bookId": 1,
+    "chapterNameAr": "التحريم",
+    "chapterNameEn": "At-Tahrim",
+    "chapterNameUr": "التحریم",
+    "verseCount": 12,
+    "pageNo": 560,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 67,
+    "bookId": 1,
+    "chapterNameAr": "الملك",
+    "chapterNameEn": "Al-Mulk",
+    "chapterNameUr": "الملک",
+    "verseCount": 30,
+    "pageNo": 562,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 68,
+    "bookId": 1,
+    "chapterNameAr": "القلم",
+    "chapterNameEn": "Al-Qalam",
+    "chapterNameUr": "القلم",
+    "verseCount": 52,
+    "pageNo": 564,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 69,
+    "bookId": 1,
+    "chapterNameAr": "الحاقة",
+    "chapterNameEn": "Al-Haqqah",
+    "chapterNameUr": "الحاقہ",
+    "verseCount": 52,
+    "pageNo": 566,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 70,
+    "bookId": 1,
+    "chapterNameAr": "المعارج",
+    "chapterNameEn": "Al-Ma'arij",
+    "chapterNameUr": "المعارج",
+    "verseCount": 44,
+    "pageNo": 568,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 71,
+    "bookId": 1,
+    "chapterNameAr": "نوح",
+    "chapterNameEn": "Nuh",
+    "chapterNameUr": "نوح",
+    "verseCount": 28,
+    "pageNo": 570,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 72,
+    "bookId": 1,
+    "chapterNameAr": "الجن",
+    "chapterNameEn": "Al-Jinn",
+    "chapterNameUr": "الجن",
+    "verseCount": 28,
+    "pageNo": 572,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 73,
+    "bookId": 1,
+    "chapterNameAr": "المزمل",
+    "chapterNameEn": "Al-Muzzammil",
+    "chapterNameUr": "المزمل",
+    "verseCount": 20,
+    "pageNo": 574,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 74,
+    "bookId": 1,
+    "chapterNameAr": "المدثر",
+    "chapterNameEn": "Al-Muddaththir",
+    "chapterNameUr": "المدثر",
+    "verseCount": 56,
+    "pageNo": 575,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 75,
+    "bookId": 1,
+    "chapterNameAr": "القيامة",
+    "chapterNameEn": "Al-Qiyamah",
+    "chapterNameUr": "القیامہ",
+    "verseCount": 40,
+    "pageNo": 577,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 76,
+    "bookId": 1,
+    "chapterNameAr": "الانسان",
+    "chapterNameEn": "Al-Insan",
+    "chapterNameUr": "الانسان",
+    "verseCount": 31,
+    "pageNo": 578,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 77,
+    "bookId": 1,
+    "chapterNameAr": "المرسلات",
+    "chapterNameEn": "Al-Mursalat",
+    "chapterNameUr": "المرسلات",
+    "verseCount": 50,
+    "pageNo": 580,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 78,
+    "bookId": 1,
+    "chapterNameAr": "النبأ",
+    "chapterNameEn": "An-Naba",
+    "chapterNameUr": "النبأ",
+    "verseCount": 40,
+    "pageNo": 582,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 79,
+    "bookId": 1,
+    "chapterNameAr": "النازعات",
+    "chapterNameEn": "An-Naziat",
+    "chapterNameUr": "النازعات",
+    "verseCount": 46,
+    "pageNo": 583,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 80,
+    "bookId": 1,
+    "chapterNameAr": "عبس",
+    "chapterNameEn": "Abasa",
+    "chapterNameUr": "عبس",
+    "verseCount": 42,
+    "pageNo": 585,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 81,
+    "bookId": 1,
+    "chapterNameAr": "التكوير",
+    "chapterNameEn": "At-Takwir",
+    "chapterNameUr": "التکویر",
+    "verseCount": 29,
+    "pageNo": 586,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 82,
+    "bookId": 1,
+    "chapterNameAr": "الإنفطار",
+    "chapterNameEn": "Al-Infitar",
+    "chapterNameUr": "الانفطار",
+    "verseCount": 19,
+    "pageNo": 587,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 83,
+    "bookId": 1,
+    "chapterNameAr": "المطففين",
+    "chapterNameEn": "Al-Mutaffifin",
+    "chapterNameUr": "المطففین",
+    "verseCount": 36,
+    "pageNo": 588,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 84,
+    "bookId": 1,
+    "chapterNameAr": "الانشقاق",
+    "chapterNameEn": "Al-Inshiqaq",
+    "chapterNameUr": "الانشقاق",
+    "verseCount": 25,
+    "pageNo": 589,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 85,
+    "bookId": 1,
+    "chapterNameAr": "البروج",
+    "chapterNameEn": "Al-Buruj",
+    "chapterNameUr": "البروج",
+    "verseCount": 22,
+    "pageNo": 590,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 86,
+    "bookId": 1,
+    "chapterNameAr": "الطارق",
+    "chapterNameEn": "At-Tariq",
+    "chapterNameUr": "الطارق",
+    "verseCount": 17,
+    "pageNo": 591,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 87,
+    "bookId": 1,
+    "chapterNameAr": "الأعلى",
+    "chapterNameEn": "Al-A'la",
+    "chapterNameUr": "الاعلیٰ",
+    "verseCount": 19,
+    "pageNo": 591,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 88,
+    "bookId": 1,
+    "chapterNameAr": "الغاشية",
+    "chapterNameEn": "Al-Ghashiyah",
+    "chapterNameUr": "الغاشیہ",
+    "verseCount": 26,
+    "pageNo": 592,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 89,
+    "bookId": 1,
+    "chapterNameAr": "الفجر",
+    "chapterNameEn": "Al-Fajr",
+    "chapterNameUr": "الفجر",
+    "verseCount": 30,
+    "pageNo": 593,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 90,
+    "bookId": 1,
+    "chapterNameAr": "البلد",
+    "chapterNameEn": "Al-Balad",
+    "chapterNameUr": "البلد",
+    "verseCount": 20,
+    "pageNo": 594,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 91,
+    "bookId": 1,
+    "chapterNameAr": "الشمس",
+    "chapterNameEn": "Ash-Shams",
+    "chapterNameUr": "الشمس",
+    "verseCount": 15,
+    "pageNo": 595,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 92,
+    "bookId": 1,
+    "chapterNameAr": "الليل",
+    "chapterNameEn": "Al-Layl",
+    "chapterNameUr": "اللیل",
+    "verseCount": 21,
+    "pageNo": 595,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 93,
+    "bookId": 1,
+    "chapterNameAr": "الضحى",
+    "chapterNameEn": "Ad-Duha",
+    "chapterNameUr": "الضحیٰ",
+    "verseCount": 11,
+    "pageNo": 596,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 94,
+    "bookId": 1,
+    "chapterNameAr": "الشرح",
+    "chapterNameEn": "Ash-Sharh",
+    "chapterNameUr": "الشرح",
+    "verseCount": 8,
+    "pageNo": 596,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 95,
+    "bookId": 1,
+    "chapterNameAr": "التين",
+    "chapterNameEn": "At-Tin",
+    "chapterNameUr": "التین",
+    "verseCount": 8,
+    "pageNo": 597,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 96,
+    "bookId": 1,
+    "chapterNameAr": "العلق",
+    "chapterNameEn": "Al-Alaq",
+    "chapterNameUr": "العلق",
+    "verseCount": 19,
+    "pageNo": 597,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 97,
+    "bookId": 1,
+    "chapterNameAr": "القدر",
+    "chapterNameEn": "Al-Qadr",
+    "chapterNameUr": "القدر",
+    "verseCount": 5,
+    "pageNo": 598,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 98,
+    "bookId": 1,
+    "chapterNameAr": "البينة",
+    "chapterNameEn": "Al-Bayyinah",
+    "chapterNameUr": "البینہ",
+    "verseCount": 8,
+    "pageNo": 598,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 99,
+    "bookId": 1,
+    "chapterNameAr": "الزلزلة",
+    "chapterNameEn": "Az-Zalzalah",
+    "chapterNameUr": "الزلزلہ",
+    "verseCount": 8,
+    "pageNo": 599,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 100,
+    "bookId": 1,
+    "chapterNameAr": "العاديات",
+    "chapterNameEn": "Al-Adiyat",
+    "chapterNameUr": "العادیات",
+    "verseCount": 11,
+    "pageNo": 599,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 101,
+    "bookId": 1,
+    "chapterNameAr": "القارعة",
+    "chapterNameEn": "Al-Qari'ah",
+    "chapterNameUr": "القارعہ",
+    "verseCount": 11,
+    "pageNo": 600,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 102,
+    "bookId": 1,
+    "chapterNameAr": "التكاثر",
+    "chapterNameEn": "At-Takathur",
+    "chapterNameUr": "التکاثر",
+    "verseCount": 8,
+    "pageNo": 600,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 103,
+    "bookId": 1,
+    "chapterNameAr": "العصر",
+    "chapterNameEn": "Al-Asr",
+    "chapterNameUr": "العصر",
+    "verseCount": 3,
+    "pageNo": 601,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 104,
+    "bookId": 1,
+    "chapterNameAr": "الهمزة",
+    "chapterNameEn": "Al-Humazah",
+    "chapterNameUr": "الہمزہ",
+    "verseCount": 9,
+    "pageNo": 601,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 105,
+    "bookId": 1,
+    "chapterNameAr": "الفيل",
+    "chapterNameEn": "Al-Fil",
+    "chapterNameUr": "الفیل",
+    "verseCount": 5,
+    "pageNo": 602,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 106,
+    "bookId": 1,
+    "chapterNameAr": "قريش",
+    "chapterNameEn": "Quraish",
+    "chapterNameUr": "قریش",
+    "verseCount": 4,
+    "pageNo": 602,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 107,
+    "bookId": 1,
+    "chapterNameAr": "الماعون",
+    "chapterNameEn": "Al-Ma'un",
+    "chapterNameUr": "الماعون",
+    "verseCount": 7,
+    "pageNo": 603,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 108,
+    "bookId": 1,
+    "chapterNameAr": "الكوثر",
+    "chapterNameEn": "Al-Kauthar",
+    "chapterNameUr": "الکوثر",
+    "verseCount": 3,
+    "pageNo": 603,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 109,
+    "bookId": 1,
+    "chapterNameAr": "الكافرون",
+    "chapterNameEn": "Al-Kafirun",
+    "chapterNameUr": "الکافرون",
+    "verseCount": 6,
+    "pageNo": 603,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 110,
+    "bookId": 1,
+    "chapterNameAr": "النصر",
+    "chapterNameEn": "An-Nasr",
+    "chapterNameUr": "النصر",
+    "verseCount": 3,
+    "pageNo": 604,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 111,
+    "bookId": 1,
+    "chapterNameAr": "المسد",
+    "chapterNameEn": "Al-Masad",
+    "chapterNameUr": "المسد",
+    "verseCount": 5,
+    "pageNo": 604,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 112,
+    "bookId": 1,
+    "chapterNameAr": "الإخلاص",
+    "chapterNameEn": "Al-Ikhlas",
+    "chapterNameUr": "الاخلاص",
+    "verseCount": 4,
+    "pageNo": 604,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 113,
+    "bookId": 1,
+    "chapterNameAr": "الفلق",
+    "chapterNameEn": "Al-Falaq",
+    "chapterNameUr": "الفلق",
+    "verseCount": 5,
+    "pageNo": 605,
+    "downloadUrl": ""
+  },
+  {
+    "chapterId": 114,
+    "bookId": 1,
+    "chapterNameAr": "الناس",
+    "chapterNameEn": "An-Nas",
+    "chapterNameUr": "الناس",
+    "verseCount": 6,
+    "pageNo": 605,
+    "downloadUrl": ""
+  }
+]
