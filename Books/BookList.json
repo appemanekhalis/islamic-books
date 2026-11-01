@@ -41,7 +41,7 @@
 {
 "bookId": 4,
 "bookNameAr": "",
-"bookNameEn": "Ahd-e-Faramosh (The Forgotten Covenant)",
+"bookNameEn": "Ahd e Faramosh (The Forgotten Covenant)",
 "bookNameUr": "عہدِ فراموش",
 "coverImage": "",
 "coverImageUrl": "",
@@ -88,7 +88,7 @@
 "typeId": 5,
 "JsonFile": "https://raw.githubusercontent.com/appemanekhalis/islamic-books/main/Books/Allah_ka_ghar_aur_yeh_dargahen_f.json",
 "AudioUrl": "",
-"order": 20
+"order": 10
 },
 {
 "bookId": 8,
