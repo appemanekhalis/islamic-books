@@ -1,0 +1,2419 @@
+{
+  "name_en": "Noorani Qaida",
+  "name_ur": "نورانی قاعدہ",
+  "name_ar": "القاعدة النورانية",
+  "version": 1,
+  "total_lessons": 14,
+  "lessons": [
+    {
+      "id": 1,
+      "title_en": "Single Letters",
+      "title_ur": "حروفِ مفردات",
+      "title_ar": "الحروف المفردة",
+      "description_en": "Learn the Arabic letters and their names. Practise the sound of each from its makhraj (point of articulation).",
+      "description_ur": "عربی حروف کے نام اور ان کی آوازیں مخرج کے ساتھ سیکھیں۔",
+      "items": [
+        {
+          "letter": "ا",
+          "name_en": "Alif",
+          "name_ur": "الف",
+          "forms": {
+            "isolated": "ا",
+            "final": "ـا"
+          }
+        },
+        {
+          "letter": "ب",
+          "name_en": "Ba",
+          "name_ur": "با",
+          "forms": {
+            "isolated": "ب",
+            "initial": "بـ",
+            "medial": "ـبـ",
+            "final": "ـب"
+          }
+        },
+        {
+          "letter": "ت",
+          "name_en": "Ta",
+          "name_ur": "تا",
+          "forms": {
+            "isolated": "ت",
+            "initial": "تـ",
+            "medial": "ـتـ",
+            "final": "ـت"
+          }
+        },
+        {
+          "letter": "ث",
+          "name_en": "Tha",
+          "name_ur": "ثا",
+          "forms": {
+            "isolated": "ث",
+            "initial": "ثـ",
+            "medial": "ـثـ",
+            "final": "ـث"
+          }
+        },
+        {
+          "letter": "ج",
+          "name_en": "Jeem",
+          "name_ur": "جیم",
+          "forms": {
+            "isolated": "ج",
+            "initial": "جـ",
+            "medial": "ـجـ",
+            "final": "ـج"
+          }
+        },
+        {
+          "letter": "ح",
+          "name_en": "Haa",
+          "name_ur": "حا",
+          "forms": {
+            "isolated": "ح",
+            "initial": "حـ",
+            "medial": "ـحـ",
+            "final": "ـح"
+          }
+        },
+        {
+          "letter": "خ",
+          "name_en": "Khaa",
+          "name_ur": "خا",
+          "forms": {
+            "isolated": "خ",
+            "initial": "خـ",
+            "medial": "ـخـ",
+            "final": "ـخ"
+          }
+        },
+        {
+          "letter": "د",
+          "name_en": "Daal",
+          "name_ur": "دال",
+          "forms": {
+            "isolated": "د",
+            "final": "ـد"
+          }
+        },
+        {
+          "letter": "ذ",
+          "name_en": "Dhaal",
+          "name_ur": "ذال",
+          "forms": {
+            "isolated": "ذ",
+            "final": "ـذ"
+          }
+        },
+        {
+          "letter": "ر",
+          "name_en": "Raa",
+          "name_ur": "را",
+          "forms": {
+            "isolated": "ر",
+            "final": "ـر"
+          }
+        },
+        {
+          "letter": "ز",
+          "name_en": "Zay",
+          "name_ur": "زا",
+          "forms": {
+            "isolated": "ز",
+            "final": "ـز"
+          }
+        },
+        {
+          "letter": "س",
+          "name_en": "Seen",
+          "name_ur": "سین",
+          "forms": {
+            "isolated": "س",
+            "initial": "سـ",
+            "medial": "ـسـ",
+            "final": "ـس"
+          }
+        },
+        {
+          "letter": "ش",
+          "name_en": "Sheen",
+          "name_ur": "شین",
+          "forms": {
+            "isolated": "ش",
+            "initial": "شـ",
+            "medial": "ـشـ",
+            "final": "ـش"
+          }
+        },
+        {
+          "letter": "ص",
+          "name_en": "Saad",
+          "name_ur": "صاد",
+          "forms": {
+            "isolated": "ص",
+            "initial": "صـ",
+            "medial": "ـصـ",
+            "final": "ـص"
+          }
+        },
+        {
+          "letter": "ض",
+          "name_en": "Daad",
+          "name_ur": "ضاد",
+          "forms": {
+            "isolated": "ض",
+            "initial": "ضـ",
+            "medial": "ـضـ",
+            "final": "ـض"
+          }
+        },
+        {
+          "letter": "ط",
+          "name_en": "Taa",
+          "name_ur": "طا",
+          "forms": {
+            "isolated": "ط",
+            "initial": "طـ",
+            "medial": "ـطـ",
+            "final": "ـط"
+          }
+        },
+        {
+          "letter": "ظ",
+          "name_en": "Zaa",
+          "name_ur": "ظا",
+          "forms": {
+            "isolated": "ظ",
+            "initial": "ظـ",
+            "medial": "ـظـ",
+            "final": "ـظ"
+          }
+        },
+        {
+          "letter": "ع",
+          "name_en": "Ayn",
+          "name_ur": "عین",
+          "forms": {
+            "isolated": "ع",
+            "initial": "عـ",
+            "medial": "ـعـ",
+            "final": "ـع"
+          }
+        },
+        {
+          "letter": "غ",
+          "name_en": "Ghayn",
+          "name_ur": "غین",
+          "forms": {
+            "isolated": "غ",
+            "initial": "غـ",
+            "medial": "ـغـ",
+            "final": "ـغ"
+          }
+        },
+        {
+          "letter": "ف",
+          "name_en": "Faa",
+          "name_ur": "فا",
+          "forms": {
+            "isolated": "ف",
+            "initial": "فـ",
+            "medial": "ـفـ",
+            "final": "ـف"
+          }
+        },
+        {
+          "letter": "ق",
+          "name_en": "Qaaf",
+          "name_ur": "قاف",
+          "forms": {
+            "isolated": "ق",
+            "initial": "قـ",
+            "medial": "ـقـ",
+            "final": "ـق"
+          }
+        },
+        {
+          "letter": "ک",
+          "name_en": "Kaaf",
+          "name_ur": "کاف",
+          "forms": {
+            "isolated": "ک",
+            "initial": "کـ",
+            "medial": "ـکـ",
+            "final": "ـک"
+          }
+        },
+        {
+          "letter": "ل",
+          "name_en": "Laam",
+          "name_ur": "لام",
+          "forms": {
+            "isolated": "ل",
+            "initial": "لـ",
+            "medial": "ـلـ",
+            "final": "ـل"
+          }
+        },
+        {
+          "letter": "م",
+          "name_en": "Meem",
+          "name_ur": "میم",
+          "forms": {
+            "isolated": "م",
+            "initial": "مـ",
+            "medial": "ـمـ",
+            "final": "ـم"
+          }
+        },
+        {
+          "letter": "ن",
+          "name_en": "Noon",
+          "name_ur": "نون",
+          "forms": {
+            "isolated": "ن",
+            "initial": "نـ",
+            "medial": "ـنـ",
+            "final": "ـن"
+          }
+        },
+        {
+          "letter": "و",
+          "name_en": "Waaw",
+          "name_ur": "واؤ",
+          "forms": {
+            "isolated": "و",
+            "final": "ـو"
+          }
+        },
+        {
+          "letter": "ہ",
+          "name_en": "Haa (soft)",
+          "name_ur": "ہا",
+          "forms": {
+            "isolated": "ہ",
+            "initial": "ہـ",
+            "medial": "ـہـ",
+            "final": "ـہ"
+          }
+        },
+        {
+          "letter": "ء",
+          "name_en": "Hamzah",
+          "name_ur": "ہمزہ",
+          "forms": {
+            "isolated": "ء",
+            "final": "ـء"
+          }
+        },
+        {
+          "letter": "ی",
+          "name_en": "Yaa",
+          "name_ur": "یا",
+          "forms": {
+            "isolated": "ی",
+            "initial": "یـ",
+            "medial": "ـیـ",
+            "final": "ـی"
+          }
+        }
+      ],
+      "makharij": [
+        {
+          "id": "throat_deep",
+          "en": "Deepest throat",
+          "ur": "اقصائے حلق",
+          "letters": [
+            "ء",
+            "ہ"
+          ]
+        },
+        {
+          "id": "throat_middle",
+          "en": "Middle of throat",
+          "ur": "وسطِ حلق",
+          "letters": [
+            "ع",
+            "ح"
+          ]
+        },
+        {
+          "id": "throat_upper",
+          "en": "Upper throat",
+          "ur": "ادنائے حلق",
+          "letters": [
+            "غ",
+            "خ"
+          ]
+        },
+        {
+          "id": "tongue",
+          "en": "Tongue",
+          "ur": "زبان",
+          "letters": [
+            "ق",
+            "ک",
+            "ج",
+            "ش",
+            "ی",
+            "ض",
+            "ل",
+            "ن",
+            "ر",
+            "ط",
+            "د",
+            "ت",
+            "ص",
+            "ز",
+            "س",
+            "ظ",
+            "ذ",
+            "ث"
+          ]
+        },
+        {
+          "id": "lips",
+          "en": "Lips",
+          "ur": "ہونٹ",
+          "letters": [
+            "ف",
+            "ب",
+            "م",
+            "و"
+          ]
+        },
+        {
+          "id": "jawf",
+          "en": "Empty space of mouth (madd)",
+          "ur": "جوف",
+          "letters": [
+            "ا",
+            "و",
+            "ی"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title_en": "Joined Letters",
+      "title_ur": "حروفِ مرکبات",
+      "title_ar": "الحروف المركبة",
+      "description_en": "Letters change shape at the start, middle and end of a word. Six letters (ا د ذ ر ز و) do not join to the letter after them.",
+      "description_ur": "حروف لفظ کے شروع، درمیان اور آخر میں شکل بدلتے ہیں۔ چھ حروف (ا د ذ ر ز و) اپنے بعد والے حرف سے نہیں ملتے۔",
+      "non_joining_letters": [
+        "ا",
+        "د",
+        "ذ",
+        "ر",
+        "ز",
+        "و"
+      ],
+      "items": [
+        {
+          "letter": "ا",
+          "name_en": "Alif",
+          "name_ur": "الف",
+          "forms": {
+            "isolated": "ا",
+            "final": "ـا"
+          },
+          "joins_next": false
+        },
+        {
+          "letter": "ب",
+          "name_en": "Ba",
+          "name_ur": "با",
+          "forms": {
+            "isolated": "ب",
+            "initial": "بـ",
+            "medial": "ـبـ",
+            "final": "ـب"
+          },
+          "joins_next": true
+        },
+        {
+          "letter": "ت",
+          "name_en": "Ta",
+          "name_ur": "تا",
+          "forms": {
+            "isolated": "ت",
+            "initial": "تـ",
+            "medial": "ـتـ",
+            "final": "ـت"
+          },
+          "joins_next": true
+        },
+        {
+          "letter": "ث",
+          "name_en": "Tha",
+          "name_ur": "ثا",
+          "forms": {
+            "isolated": "ث",
+            "initial": "ثـ",
+            "medial": "ـثـ",
+            "final": "ـث"
+          },
+          "joins_next": true
+        },
+        {
+          "letter": "ج",
+          "name_en": "Jeem",
+          "name_ur": "جیم",
+          "forms": {
+            "isolated": "ج",
+            "initial": "جـ",
+            "medial": "ـجـ",
+            "final": "ـج"
+          },
+          "joins_next": true
+        },
+        {
+          "letter": "ح",
+          "name_en": "Haa",
+          "name_ur": "حا",
+          "forms": {
+            "isolated": "ح",
+            "initial": "حـ",
+            "medial": "ـحـ",
+            "final": "ـح"
+          },
+          "joins_next": true
+        },
+        {
+          "letter": "خ",
+          "name_en": "Khaa",
+          "name_ur": "خا",
+          "forms": {
+            "isolated": "خ",
+            "initial": "خـ",
+            "medial": "ـخـ",
+            "final": "ـخ"
+          },
+          "joins_next": true
+        },
+        {
+          "letter": "د",
+          "name_en": "Daal",
+          "name_ur": "دال",
+          "forms": {
+            "isolated": "د",
+            "final": "ـد"
+          },
+          "joins_next": false
+        },
+        {
+          "letter": "ذ",
+          "name_en": "Dhaal",
+          "name_ur": "ذال",
+          "forms": {
+            "isolated": "ذ",
+            "final": "ـذ"
+          },
+          "joins_next": false
+        },
+        {
+          "letter": "ر",
+          "name_en": "Raa",
+          "name_ur": "را",
+          "forms": {
+            "isolated": "ر",
+            "final": "ـر"
+          },
+          "joins_next": false
+        },
+        {
+          "letter": "ز",
+          "name_en": "Zay",
+          "name_ur": "زا",
+          "forms": {
+            "isolated": "ز",
+            "final": "ـز"
+          },
+          "joins_next": false
+        },
+        {
+          "letter": "س",
+          "name_en": "Seen",
+          "name_ur": "سین",
+          "forms": {
+            "isolated": "س",
+            "initial": "سـ",
+            "medial": "ـسـ",
+            "final": "ـس"
+          },
+          "joins_next": true
+        },
+        {
+          "letter": "ش",
+          "name_en": "Sheen",
+          "name_ur": "شین",
+          "forms": {
+            "isolated": "ش",
+            "initial": "شـ",
+            "medial": "ـشـ",
+            "final": "ـش"
+          },
+          "joins_next": true
+        },
+        {
+          "letter": "ص",
+          "name_en": "Saad",
+          "name_ur": "صاد",
+          "forms": {
+            "isolated": "ص",
+            "initial": "صـ",
+            "medial": "ـصـ",
+            "final": "ـص"
+          },
+          "joins_next": true
+        },
+        {
+          "letter": "ض",
+          "name_en": "Daad",
+          "name_ur": "ضاد",
+          "forms": {
+            "isolated": "ض",
+            "initial": "ضـ",
+            "medial": "ـضـ",
+            "final": "ـض"
+          },
+          "joins_next": true
+        },
+        {
+          "letter": "ط",
+          "name_en": "Taa",
+          "name_ur": "طا",
+          "forms": {
+            "isolated": "ط",
+            "initial": "طـ",
+            "medial": "ـطـ",
+            "final": "ـط"
+          },
+          "joins_next": true
+        },
+        {
+          "letter": "ظ",
+          "name_en": "Zaa",
+          "name_ur": "ظا",
+          "forms": {
+            "isolated": "ظ",
+            "initial": "ظـ",
+            "medial": "ـظـ",
+            "final": "ـظ"
+          },
+          "joins_next": true
+        },
+        {
+          "letter": "ع",
+          "name_en": "Ayn",
+          "name_ur": "عین",
+          "forms": {
+            "isolated": "ع",
+            "initial": "عـ",
+            "medial": "ـعـ",
+            "final": "ـع"
+          },
+          "joins_next": true
+        },
+        {
+          "letter": "غ",
+          "name_en": "Ghayn",
+          "name_ur": "غین",
+          "forms": {
+            "isolated": "غ",
+            "initial": "غـ",
+            "medial": "ـغـ",
+            "final": "ـغ"
+          },
+          "joins_next": true
+        },
+        {
+          "letter": "ف",
+          "name_en": "Faa",
+          "name_ur": "فا",
+          "forms": {
+            "isolated": "ف",
+            "initial": "فـ",
+            "medial": "ـفـ",
+            "final": "ـف"
+          },
+          "joins_next": true
+        },
+        {
+          "letter": "ق",
+          "name_en": "Qaaf",
+          "name_ur": "قاف",
+          "forms": {
+            "isolated": "ق",
+            "initial": "قـ",
+            "medial": "ـقـ",
+            "final": "ـق"
+          },
+          "joins_next": true
+        },
+        {
+          "letter": "ک",
+          "name_en": "Kaaf",
+          "name_ur": "کاف",
+          "forms": {
+            "isolated": "ک",
+            "initial": "کـ",
+            "medial": "ـکـ",
+            "final": "ـک"
+          },
+          "joins_next": true
+        },
+        {
+          "letter": "ل",
+          "name_en": "Laam",
+          "name_ur": "لام",
+          "forms": {
+            "isolated": "ل",
+            "initial": "لـ",
+            "medial": "ـلـ",
+            "final": "ـل"
+          },
+          "joins_next": true
+        },
+        {
+          "letter": "م",
+          "name_en": "Meem",
+          "name_ur": "میم",
+          "forms": {
+            "isolated": "م",
+            "initial": "مـ",
+            "medial": "ـمـ",
+            "final": "ـم"
+          },
+          "joins_next": true
+        },
+        {
+          "letter": "ن",
+          "name_en": "Noon",
+          "name_ur": "نون",
+          "forms": {
+            "isolated": "ن",
+            "initial": "نـ",
+            "medial": "ـنـ",
+            "final": "ـن"
+          },
+          "joins_next": true
+        },
+        {
+          "letter": "و",
+          "name_en": "Waaw",
+          "name_ur": "واؤ",
+          "forms": {
+            "isolated": "و",
+            "final": "ـو"
+          },
+          "joins_next": false
+        },
+        {
+          "letter": "ہ",
+          "name_en": "Haa (soft)",
+          "name_ur": "ہا",
+          "forms": {
+            "isolated": "ہ",
+            "initial": "ہـ",
+            "medial": "ـہـ",
+            "final": "ـہ"
+          },
+          "joins_next": true
+        },
+        {
+          "letter": "ء",
+          "name_en": "Hamzah",
+          "name_ur": "ہمزہ",
+          "forms": {
+            "isolated": "ء",
+            "final": "ـء"
+          },
+          "joins_next": false
+        },
+        {
+          "letter": "ی",
+          "name_en": "Yaa",
+          "name_ur": "یا",
+          "forms": {
+            "isolated": "ی",
+            "initial": "یـ",
+            "medial": "ـیـ",
+            "final": "ـی"
+          },
+          "joins_next": true
+        }
+      ],
+      "practice": [
+        "بتث",
+        "جحخ",
+        "سشص",
+        "ضطظ",
+        "عغف",
+        "قکل",
+        "من",
+        "یہ",
+        "بجد",
+        "تحر",
+        "سمع",
+        "فقن"
+      ]
+    },
+    {
+      "id": 3,
+      "title_en": "Short Vowels (Harakat)",
+      "title_ur": "حرکات",
+      "title_ar": "الحركات",
+      "description_en": "Fatha (a), Kasra (i) and Damma (u) are placed on or under a letter to give it a vowel sound.",
+      "description_ur": "زبر، زیر اور پیش حرف کو آواز دیتے ہیں۔",
+      "rules": [
+        {
+          "mark": "َ",
+          "name_en": "Fatha",
+          "name_ur": "زبر",
+          "sound": "a",
+          "position": "above"
+        },
+        {
+          "mark": "ِ",
+          "name_en": "Kasra",
+          "name_ur": "زیر",
+          "sound": "i",
+          "position": "below"
+        },
+        {
+          "mark": "ُ",
+          "name_en": "Damma",
+          "name_ur": "پیش",
+          "sound": "u",
+          "position": "above"
+        }
+      ],
+      "items": [
+        {
+          "letter": "ا",
+          "fatha": "اَ",
+          "kasra": "اِ",
+          "damma": "اُ"
+        },
+        {
+          "letter": "ب",
+          "fatha": "بَ",
+          "kasra": "بِ",
+          "damma": "بُ"
+        },
+        {
+          "letter": "ت",
+          "fatha": "تَ",
+          "kasra": "تِ",
+          "damma": "تُ"
+        },
+        {
+          "letter": "ث",
+          "fatha": "ثَ",
+          "kasra": "ثِ",
+          "damma": "ثُ"
+        },
+        {
+          "letter": "ج",
+          "fatha": "جَ",
+          "kasra": "جِ",
+          "damma": "جُ"
+        },
+        {
+          "letter": "ح",
+          "fatha": "حَ",
+          "kasra": "حِ",
+          "damma": "حُ"
+        },
+        {
+          "letter": "خ",
+          "fatha": "خَ",
+          "kasra": "خِ",
+          "damma": "خُ"
+        },
+        {
+          "letter": "د",
+          "fatha": "دَ",
+          "kasra": "دِ",
+          "damma": "دُ"
+        },
+        {
+          "letter": "ذ",
+          "fatha": "ذَ",
+          "kasra": "ذِ",
+          "damma": "ذُ"
+        },
+        {
+          "letter": "ر",
+          "fatha": "رَ",
+          "kasra": "رِ",
+          "damma": "رُ"
+        },
+        {
+          "letter": "ز",
+          "fatha": "زَ",
+          "kasra": "زِ",
+          "damma": "زُ"
+        },
+        {
+          "letter": "س",
+          "fatha": "سَ",
+          "kasra": "سِ",
+          "damma": "سُ"
+        },
+        {
+          "letter": "ش",
+          "fatha": "شَ",
+          "kasra": "شِ",
+          "damma": "شُ"
+        },
+        {
+          "letter": "ص",
+          "fatha": "صَ",
+          "kasra": "صِ",
+          "damma": "صُ"
+        },
+        {
+          "letter": "ض",
+          "fatha": "ضَ",
+          "kasra": "ضِ",
+          "damma": "ضُ"
+        },
+        {
+          "letter": "ط",
+          "fatha": "طَ",
+          "kasra": "طِ",
+          "damma": "طُ"
+        },
+        {
+          "letter": "ظ",
+          "fatha": "ظَ",
+          "kasra": "ظِ",
+          "damma": "ظُ"
+        },
+        {
+          "letter": "ع",
+          "fatha": "عَ",
+          "kasra": "عِ",
+          "damma": "عُ"
+        },
+        {
+          "letter": "غ",
+          "fatha": "غَ",
+          "kasra": "غِ",
+          "damma": "غُ"
+        },
+        {
+          "letter": "ف",
+          "fatha": "فَ",
+          "kasra": "فِ",
+          "damma": "فُ"
+        },
+        {
+          "letter": "ق",
+          "fatha": "قَ",
+          "kasra": "قِ",
+          "damma": "قُ"
+        },
+        {
+          "letter": "ک",
+          "fatha": "کَ",
+          "kasra": "کِ",
+          "damma": "کُ"
+        },
+        {
+          "letter": "ل",
+          "fatha": "لَ",
+          "kasra": "لِ",
+          "damma": "لُ"
+        },
+        {
+          "letter": "م",
+          "fatha": "مَ",
+          "kasra": "مِ",
+          "damma": "مُ"
+        },
+        {
+          "letter": "ن",
+          "fatha": "نَ",
+          "kasra": "نِ",
+          "damma": "نُ"
+        },
+        {
+          "letter": "و",
+          "fatha": "وَ",
+          "kasra": "وِ",
+          "damma": "وُ"
+        },
+        {
+          "letter": "ہ",
+          "fatha": "ہَ",
+          "kasra": "ہِ",
+          "damma": "ہُ"
+        },
+        {
+          "letter": "ی",
+          "fatha": "یَ",
+          "kasra": "یِ",
+          "damma": "یُ"
+        },
+        {
+          "letter": "ء",
+          "fatha": "ءَ",
+          "kasra": "ءِ",
+          "damma": "ءُ"
+        }
+      ],
+      "practice": [
+        "بَ بِ بُ",
+        "تَ تِ تُ",
+        "ثَ ثِ ثُ",
+        "جَ جِ جُ",
+        "حَ حِ حُ",
+        "خَ خِ خُ",
+        "بَتَ بِتِ بُتُ",
+        "ثَجَ ثِجِ ثُجُ",
+        "حَخَ حِخِ حُخُ"
+      ]
+    },
+    {
+      "id": 4,
+      "title_en": "Tanween",
+      "title_ur": "تنوین",
+      "title_ar": "التنوين",
+      "description_en": "Double fatha, kasra and damma add an 'n' sound at the end of a word.",
+      "description_ur": "دو زبر، دو زیر اور دو پیش آخر میں نون کی آواز پیدا کرتے ہیں۔",
+      "rules": [
+        {
+          "mark": "ً",
+          "name_en": "Fathatain",
+          "name_ur": "دو زبر",
+          "sound": "an"
+        },
+        {
+          "mark": "ٍ",
+          "name_en": "Kasratain",
+          "name_ur": "دو زیر",
+          "sound": "in"
+        },
+        {
+          "mark": "ٌ",
+          "name_en": "Dammatain",
+          "name_ur": "دو پیش",
+          "sound": "un"
+        }
+      ],
+      "items": [
+        {
+          "letter": "ا",
+          "fathatain": "اً",
+          "kasratain": "اٍ",
+          "dammatain": "اٌ"
+        },
+        {
+          "letter": "ب",
+          "fathatain": "بً",
+          "kasratain": "بٍ",
+          "dammatain": "بٌ"
+        },
+        {
+          "letter": "ت",
+          "fathatain": "تً",
+          "kasratain": "تٍ",
+          "dammatain": "تٌ"
+        },
+        {
+          "letter": "ث",
+          "fathatain": "ثً",
+          "kasratain": "ثٍ",
+          "dammatain": "ثٌ"
+        },
+        {
+          "letter": "ج",
+          "fathatain": "جً",
+          "kasratain": "جٍ",
+          "dammatain": "جٌ"
+        },
+        {
+          "letter": "ح",
+          "fathatain": "حً",
+          "kasratain": "حٍ",
+          "dammatain": "حٌ"
+        },
+        {
+          "letter": "خ",
+          "fathatain": "خً",
+          "kasratain": "خٍ",
+          "dammatain": "خٌ"
+        },
+        {
+          "letter": "د",
+          "fathatain": "دً",
+          "kasratain": "دٍ",
+          "dammatain": "دٌ"
+        },
+        {
+          "letter": "ذ",
+          "fathatain": "ذً",
+          "kasratain": "ذٍ",
+          "dammatain": "ذٌ"
+        },
+        {
+          "letter": "ر",
+          "fathatain": "رً",
+          "kasratain": "رٍ",
+          "dammatain": "رٌ"
+        },
+        {
+          "letter": "ز",
+          "fathatain": "زً",
+          "kasratain": "زٍ",
+          "dammatain": "زٌ"
+        },
+        {
+          "letter": "س",
+          "fathatain": "سً",
+          "kasratain": "سٍ",
+          "dammatain": "سٌ"
+        },
+        {
+          "letter": "ش",
+          "fathatain": "شً",
+          "kasratain": "شٍ",
+          "dammatain": "شٌ"
+        },
+        {
+          "letter": "ص",
+          "fathatain": "صً",
+          "kasratain": "صٍ",
+          "dammatain": "صٌ"
+        },
+        {
+          "letter": "ض",
+          "fathatain": "ضً",
+          "kasratain": "ضٍ",
+          "dammatain": "ضٌ"
+        },
+        {
+          "letter": "ط",
+          "fathatain": "طً",
+          "kasratain": "طٍ",
+          "dammatain": "طٌ"
+        },
+        {
+          "letter": "ظ",
+          "fathatain": "ظً",
+          "kasratain": "ظٍ",
+          "dammatain": "ظٌ"
+        },
+        {
+          "letter": "ع",
+          "fathatain": "عً",
+          "kasratain": "عٍ",
+          "dammatain": "عٌ"
+        },
+        {
+          "letter": "غ",
+          "fathatain": "غً",
+          "kasratain": "غٍ",
+          "dammatain": "غٌ"
+        },
+        {
+          "letter": "ف",
+          "fathatain": "فً",
+          "kasratain": "فٍ",
+          "dammatain": "فٌ"
+        },
+        {
+          "letter": "ق",
+          "fathatain": "قً",
+          "kasratain": "قٍ",
+          "dammatain": "قٌ"
+        },
+        {
+          "letter": "ک",
+          "fathatain": "کً",
+          "kasratain": "کٍ",
+          "dammatain": "کٌ"
+        },
+        {
+          "letter": "ل",
+          "fathatain": "لً",
+          "kasratain": "لٍ",
+          "dammatain": "لٌ"
+        },
+        {
+          "letter": "م",
+          "fathatain": "مً",
+          "kasratain": "مٍ",
+          "dammatain": "مٌ"
+        },
+        {
+          "letter": "ن",
+          "fathatain": "نً",
+          "kasratain": "نٍ",
+          "dammatain": "نٌ"
+        },
+        {
+          "letter": "و",
+          "fathatain": "وً",
+          "kasratain": "وٍ",
+          "dammatain": "وٌ"
+        },
+        {
+          "letter": "ہ",
+          "fathatain": "ہً",
+          "kasratain": "ہٍ",
+          "dammatain": "ہٌ"
+        },
+        {
+          "letter": "ی",
+          "fathatain": "یً",
+          "kasratain": "یٍ",
+          "dammatain": "یٌ"
+        },
+        {
+          "letter": "ء",
+          "fathatain": "ءً",
+          "kasratain": "ءٍ",
+          "dammatain": "ءٌ"
+        }
+      ],
+      "practice": [
+        "بًا بٍ بٌ",
+        "تًا تٍ تٌ",
+        "ثًا ثٍ ثٌ",
+        "جًا جٍ جٌ",
+        "حًا حٍ حٌ",
+        "خًا خٍ خٌ"
+      ]
+    },
+    {
+      "id": 5,
+      "title_en": "Standing Vowels",
+      "title_ur": "کھڑی حرکات",
+      "title_ar": "الحركات القائمة",
+      "description_en": "Standing fatha, standing kasra and inverted damma are held for two counts (madd).",
+      "description_ur": "کھڑی زبر، کھڑی زیر اور الٹی پیش کو دو الف کے برابر کھینچ کر پڑھا جاتا ہے۔",
+      "rules": [
+        {
+          "mark": "ٰ",
+          "name_en": "Standing Fatha",
+          "name_ur": "کھڑی زبر",
+          "sound": "aa",
+          "counts": 2
+        },
+        {
+          "mark": "ٖ",
+          "name_en": "Standing Kasra",
+          "name_ur": "کھڑی زیر",
+          "sound": "ee",
+          "counts": 2
+        },
+        {
+          "mark": "ٗ",
+          "name_en": "Inverted Damma",
+          "name_ur": "الٹی پیش",
+          "sound": "oo",
+          "counts": 2
+        }
+      ],
+      "items": [
+        {
+          "letter": "ا",
+          "standing_fatha": "اٰ",
+          "standing_kasra": "اٖ",
+          "inverted_damma": "اٗ"
+        },
+        {
+          "letter": "ب",
+          "standing_fatha": "بٰ",
+          "standing_kasra": "بٖ",
+          "inverted_damma": "بٗ"
+        },
+        {
+          "letter": "ت",
+          "standing_fatha": "تٰ",
+          "standing_kasra": "تٖ",
+          "inverted_damma": "تٗ"
+        },
+        {
+          "letter": "ث",
+          "standing_fatha": "ثٰ",
+          "standing_kasra": "ثٖ",
+          "inverted_damma": "ثٗ"
+        },
+        {
+          "letter": "ج",
+          "standing_fatha": "جٰ",
+          "standing_kasra": "جٖ",
+          "inverted_damma": "جٗ"
+        },
+        {
+          "letter": "ح",
+          "standing_fatha": "حٰ",
+          "standing_kasra": "حٖ",
+          "inverted_damma": "حٗ"
+        },
+        {
+          "letter": "خ",
+          "standing_fatha": "خٰ",
+          "standing_kasra": "خٖ",
+          "inverted_damma": "خٗ"
+        },
+        {
+          "letter": "د",
+          "standing_fatha": "دٰ",
+          "standing_kasra": "دٖ",
+          "inverted_damma": "دٗ"
+        },
+        {
+          "letter": "ذ",
+          "standing_fatha": "ذٰ",
+          "standing_kasra": "ذٖ",
+          "inverted_damma": "ذٗ"
+        },
+        {
+          "letter": "ر",
+          "standing_fatha": "رٰ",
+          "standing_kasra": "رٖ",
+          "inverted_damma": "رٗ"
+        },
+        {
+          "letter": "ز",
+          "standing_fatha": "زٰ",
+          "standing_kasra": "زٖ",
+          "inverted_damma": "زٗ"
+        },
+        {
+          "letter": "س",
+          "standing_fatha": "سٰ",
+          "standing_kasra": "سٖ",
+          "inverted_damma": "سٗ"
+        },
+        {
+          "letter": "ش",
+          "standing_fatha": "شٰ",
+          "standing_kasra": "شٖ",
+          "inverted_damma": "شٗ"
+        },
+        {
+          "letter": "ص",
+          "standing_fatha": "صٰ",
+          "standing_kasra": "صٖ",
+          "inverted_damma": "صٗ"
+        },
+        {
+          "letter": "ض",
+          "standing_fatha": "ضٰ",
+          "standing_kasra": "ضٖ",
+          "inverted_damma": "ضٗ"
+        },
+        {
+          "letter": "ط",
+          "standing_fatha": "طٰ",
+          "standing_kasra": "طٖ",
+          "inverted_damma": "طٗ"
+        },
+        {
+          "letter": "ظ",
+          "standing_fatha": "ظٰ",
+          "standing_kasra": "ظٖ",
+          "inverted_damma": "ظٗ"
+        },
+        {
+          "letter": "ع",
+          "standing_fatha": "عٰ",
+          "standing_kasra": "عٖ",
+          "inverted_damma": "عٗ"
+        },
+        {
+          "letter": "غ",
+          "standing_fatha": "غٰ",
+          "standing_kasra": "غٖ",
+          "inverted_damma": "غٗ"
+        },
+        {
+          "letter": "ف",
+          "standing_fatha": "فٰ",
+          "standing_kasra": "فٖ",
+          "inverted_damma": "فٗ"
+        },
+        {
+          "letter": "ق",
+          "standing_fatha": "قٰ",
+          "standing_kasra": "قٖ",
+          "inverted_damma": "قٗ"
+        },
+        {
+          "letter": "ک",
+          "standing_fatha": "کٰ",
+          "standing_kasra": "کٖ",
+          "inverted_damma": "کٗ"
+        },
+        {
+          "letter": "ل",
+          "standing_fatha": "لٰ",
+          "standing_kasra": "لٖ",
+          "inverted_damma": "لٗ"
+        },
+        {
+          "letter": "م",
+          "standing_fatha": "مٰ",
+          "standing_kasra": "مٖ",
+          "inverted_damma": "مٗ"
+        },
+        {
+          "letter": "ن",
+          "standing_fatha": "نٰ",
+          "standing_kasra": "نٖ",
+          "inverted_damma": "نٗ"
+        },
+        {
+          "letter": "و",
+          "standing_fatha": "وٰ",
+          "standing_kasra": "وٖ",
+          "inverted_damma": "وٗ"
+        },
+        {
+          "letter": "ہ",
+          "standing_fatha": "ہٰ",
+          "standing_kasra": "ہٖ",
+          "inverted_damma": "ہٗ"
+        },
+        {
+          "letter": "ی",
+          "standing_fatha": "یٰ",
+          "standing_kasra": "یٖ",
+          "inverted_damma": "یٗ"
+        },
+        {
+          "letter": "ء",
+          "standing_fatha": "ءٰ",
+          "standing_kasra": "ءٖ",
+          "inverted_damma": "ءٗ"
+        }
+      ],
+      "practice": [
+        "بٰ بٖ بٗ",
+        "تٰ تٖ تٗ",
+        "ثٰ ثٖ ثٗ",
+        "جٰ جٖ جٗ",
+        "حٰ حٖ حٗ"
+      ]
+    },
+    {
+      "id": 6,
+      "title_en": "Madd Letters",
+      "title_ur": "حروفِ مد",
+      "title_ar": "حروف المد",
+      "description_en": "Alif after fatha, Waw (sakin) after damma and Yaa (sakin) after kasra are stretched for two counts.",
+      "description_ur": "زبر کے بعد الف، پیش کے بعد واؤ ساکن اور زیر کے بعد یا ساکن کو دو الف کے برابر کھینچا جاتا ہے۔",
+      "rules": [
+        {
+          "pattern": "بَا",
+          "name_en": "Alif after Fatha",
+          "name_ur": "زبر کے بعد الف",
+          "counts": 2
+        },
+        {
+          "pattern": "بُو",
+          "name_en": "Waw after Damma",
+          "name_ur": "پیش کے بعد واؤ ساکن",
+          "counts": 2
+        },
+        {
+          "pattern": "بِی",
+          "name_en": "Yaa after Kasra",
+          "name_ur": "زیر کے بعد یا ساکن",
+          "counts": 2
+        }
+      ],
+      "items": [
+        {
+          "letter": "ب",
+          "alif": "بَا",
+          "waw": "بُوْ",
+          "yaa": "بِیْ"
+        },
+        {
+          "letter": "ت",
+          "alif": "تَا",
+          "waw": "تُوْ",
+          "yaa": "تِیْ"
+        },
+        {
+          "letter": "ث",
+          "alif": "ثَا",
+          "waw": "ثُوْ",
+          "yaa": "ثِیْ"
+        },
+        {
+          "letter": "ج",
+          "alif": "جَا",
+          "waw": "جُوْ",
+          "yaa": "جِیْ"
+        },
+        {
+          "letter": "ح",
+          "alif": "حَا",
+          "waw": "حُوْ",
+          "yaa": "حِیْ"
+        },
+        {
+          "letter": "خ",
+          "alif": "خَا",
+          "waw": "خُوْ",
+          "yaa": "خِیْ"
+        },
+        {
+          "letter": "د",
+          "alif": "دَا",
+          "waw": "دُوْ",
+          "yaa": "دِیْ"
+        },
+        {
+          "letter": "ذ",
+          "alif": "ذَا",
+          "waw": "ذُوْ",
+          "yaa": "ذِیْ"
+        },
+        {
+          "letter": "ر",
+          "alif": "رَا",
+          "waw": "رُوْ",
+          "yaa": "رِیْ"
+        },
+        {
+          "letter": "ز",
+          "alif": "زَا",
+          "waw": "زُوْ",
+          "yaa": "زِیْ"
+        },
+        {
+          "letter": "س",
+          "alif": "سَا",
+          "waw": "سُوْ",
+          "yaa": "سِیْ"
+        },
+        {
+          "letter": "ش",
+          "alif": "شَا",
+          "waw": "شُوْ",
+          "yaa": "شِیْ"
+        },
+        {
+          "letter": "ص",
+          "alif": "صَا",
+          "waw": "صُوْ",
+          "yaa": "صِیْ"
+        },
+        {
+          "letter": "ض",
+          "alif": "ضَا",
+          "waw": "ضُوْ",
+          "yaa": "ضِیْ"
+        },
+        {
+          "letter": "ط",
+          "alif": "طَا",
+          "waw": "طُوْ",
+          "yaa": "طِیْ"
+        },
+        {
+          "letter": "ظ",
+          "alif": "ظَا",
+          "waw": "ظُوْ",
+          "yaa": "ظِیْ"
+        },
+        {
+          "letter": "ع",
+          "alif": "عَا",
+          "waw": "عُوْ",
+          "yaa": "عِیْ"
+        },
+        {
+          "letter": "غ",
+          "alif": "غَا",
+          "waw": "غُوْ",
+          "yaa": "غِیْ"
+        },
+        {
+          "letter": "ف",
+          "alif": "فَا",
+          "waw": "فُوْ",
+          "yaa": "فِیْ"
+        },
+        {
+          "letter": "ق",
+          "alif": "قَا",
+          "waw": "قُوْ",
+          "yaa": "قِیْ"
+        },
+        {
+          "letter": "ک",
+          "alif": "کَا",
+          "waw": "کُوْ",
+          "yaa": "کِیْ"
+        },
+        {
+          "letter": "ل",
+          "alif": "لَا",
+          "waw": "لُوْ",
+          "yaa": "لِیْ"
+        },
+        {
+          "letter": "م",
+          "alif": "مَا",
+          "waw": "مُوْ",
+          "yaa": "مِیْ"
+        },
+        {
+          "letter": "ن",
+          "alif": "نَا",
+          "waw": "نُوْ",
+          "yaa": "نِیْ"
+        },
+        {
+          "letter": "ہ",
+          "alif": "ہَا",
+          "waw": "ہُوْ",
+          "yaa": "ہِیْ"
+        },
+        {
+          "letter": "ء",
+          "alif": "ءَا",
+          "waw": "ءُوْ",
+          "yaa": "ءِیْ"
+        }
+      ],
+      "practice": [
+        "بَا بُو بِي",
+        "تَا تُو تِي",
+        "ثَا ثُو ثِي",
+        "جَا جُو جِي",
+        "حَا حُو حِي"
+      ]
+    },
+    {
+      "id": 7,
+      "title_en": "Leen Letters",
+      "title_ur": "حروفِ لین",
+      "title_ar": "حروف اللين",
+      "description_en": "A sakin Waw or Yaa after a fatha is read softly without stretching.",
+      "description_ur": "زبر کے بعد واؤ ساکن یا یا ساکن کو نرمی سے بغیر کھینچے پڑھا جاتا ہے۔",
+      "rules": [
+        {
+          "pattern": "بَوْ",
+          "name_en": "Waw sakin after Fatha",
+          "name_ur": "زبر کے بعد واؤ ساکن"
+        },
+        {
+          "pattern": "بَيْ",
+          "name_en": "Yaa sakin after Fatha",
+          "name_ur": "زبر کے بعد یا ساکن"
+        }
+      ],
+      "items": [
+        {
+          "letter": "ب",
+          "waw": "بَوْ",
+          "yaa": "بَیْ"
+        },
+        {
+          "letter": "ت",
+          "waw": "تَوْ",
+          "yaa": "تَیْ"
+        },
+        {
+          "letter": "ث",
+          "waw": "ثَوْ",
+          "yaa": "ثَیْ"
+        },
+        {
+          "letter": "ج",
+          "waw": "جَوْ",
+          "yaa": "جَیْ"
+        },
+        {
+          "letter": "ح",
+          "waw": "حَوْ",
+          "yaa": "حَیْ"
+        },
+        {
+          "letter": "خ",
+          "waw": "خَوْ",
+          "yaa": "خَیْ"
+        },
+        {
+          "letter": "د",
+          "waw": "دَوْ",
+          "yaa": "دَیْ"
+        },
+        {
+          "letter": "ذ",
+          "waw": "ذَوْ",
+          "yaa": "ذَیْ"
+        },
+        {
+          "letter": "ر",
+          "waw": "رَوْ",
+          "yaa": "رَیْ"
+        },
+        {
+          "letter": "ز",
+          "waw": "زَوْ",
+          "yaa": "زَیْ"
+        },
+        {
+          "letter": "س",
+          "waw": "سَوْ",
+          "yaa": "سَیْ"
+        },
+        {
+          "letter": "ش",
+          "waw": "شَوْ",
+          "yaa": "شَیْ"
+        },
+        {
+          "letter": "ص",
+          "waw": "صَوْ",
+          "yaa": "صَیْ"
+        },
+        {
+          "letter": "ض",
+          "waw": "ضَوْ",
+          "yaa": "ضَیْ"
+        },
+        {
+          "letter": "ط",
+          "waw": "طَوْ",
+          "yaa": "طَیْ"
+        },
+        {
+          "letter": "ظ",
+          "waw": "ظَوْ",
+          "yaa": "ظَیْ"
+        },
+        {
+          "letter": "ع",
+          "waw": "عَوْ",
+          "yaa": "عَیْ"
+        },
+        {
+          "letter": "غ",
+          "waw": "غَوْ",
+          "yaa": "غَیْ"
+        },
+        {
+          "letter": "ف",
+          "waw": "فَوْ",
+          "yaa": "فَیْ"
+        },
+        {
+          "letter": "ق",
+          "waw": "قَوْ",
+          "yaa": "قَیْ"
+        },
+        {
+          "letter": "ک",
+          "waw": "کَوْ",
+          "yaa": "کَیْ"
+        },
+        {
+          "letter": "ل",
+          "waw": "لَوْ",
+          "yaa": "لَیْ"
+        },
+        {
+          "letter": "م",
+          "waw": "مَوْ",
+          "yaa": "مَیْ"
+        },
+        {
+          "letter": "ن",
+          "waw": "نَوْ",
+          "yaa": "نَیْ"
+        },
+        {
+          "letter": "ہ",
+          "waw": "ہَوْ",
+          "yaa": "ہَیْ"
+        },
+        {
+          "letter": "ء",
+          "waw": "ءَوْ",
+          "yaa": "ءَیْ"
+        }
+      ],
+      "practice": [
+        "بَوْ بَيْ",
+        "تَوْ تَيْ",
+        "ثَوْ ثَيْ",
+        "جَوْ جَيْ",
+        "خَوْفٍ",
+        "بَيْتٍ",
+        "قَوْلٍ",
+        "خَيْرٍ"
+      ]
+    },
+    {
+      "id": 8,
+      "title_en": "Sukoon (Jazm)",
+      "title_ur": "جزم (سکون)",
+      "title_ar": "السكون",
+      "description_en": "Sukoon on a letter means it has no vowel and is joined to the vowel of the letter before it.",
+      "description_ur": "جزم والا حرف ساکن ہوتا ہے اور اپنے سے پہلے حرف کی حرکت کے ساتھ ملا کر پڑھا جاتا ہے۔",
+      "rules": [
+        {
+          "mark": "ْ",
+          "name_en": "Sukoon",
+          "name_ur": "جزم"
+        }
+      ],
+      "items": [
+        {
+          "letter": "ب",
+          "with_fatha": "اَبْ",
+          "with_kasra": "اِبْ",
+          "with_damma": "اُبْ"
+        },
+        {
+          "letter": "ت",
+          "with_fatha": "اَتْ",
+          "with_kasra": "اِتْ",
+          "with_damma": "اُتْ"
+        },
+        {
+          "letter": "ث",
+          "with_fatha": "اَثْ",
+          "with_kasra": "اِثْ",
+          "with_damma": "اُثْ"
+        },
+        {
+          "letter": "ج",
+          "with_fatha": "اَجْ",
+          "with_kasra": "اِجْ",
+          "with_damma": "اُجْ"
+        },
+        {
+          "letter": "ح",
+          "with_fatha": "اَحْ",
+          "with_kasra": "اِحْ",
+          "with_damma": "اُحْ"
+        },
+        {
+          "letter": "خ",
+          "with_fatha": "اَخْ",
+          "with_kasra": "اِخْ",
+          "with_damma": "اُخْ"
+        },
+        {
+          "letter": "د",
+          "with_fatha": "اَدْ",
+          "with_kasra": "اِدْ",
+          "with_damma": "اُدْ"
+        },
+        {
+          "letter": "ذ",
+          "with_fatha": "اَذْ",
+          "with_kasra": "اِذْ",
+          "with_damma": "اُذْ"
+        },
+        {
+          "letter": "ر",
+          "with_fatha": "اَرْ",
+          "with_kasra": "اِرْ",
+          "with_damma": "اُرْ"
+        },
+        {
+          "letter": "ز",
+          "with_fatha": "اَزْ",
+          "with_kasra": "اِزْ",
+          "with_damma": "اُزْ"
+        },
+        {
+          "letter": "س",
+          "with_fatha": "اَسْ",
+          "with_kasra": "اِسْ",
+          "with_damma": "اُسْ"
+        },
+        {
+          "letter": "ش",
+          "with_fatha": "اَشْ",
+          "with_kasra": "اِشْ",
+          "with_damma": "اُشْ"
+        },
+        {
+          "letter": "ص",
+          "with_fatha": "اَصْ",
+          "with_kasra": "اِصْ",
+          "with_damma": "اُصْ"
+        },
+        {
+          "letter": "ض",
+          "with_fatha": "اَضْ",
+          "with_kasra": "اِضْ",
+          "with_damma": "اُضْ"
+        },
+        {
+          "letter": "ط",
+          "with_fatha": "اَطْ",
+          "with_kasra": "اِطْ",
+          "with_damma": "اُطْ"
+        },
+        {
+          "letter": "ظ",
+          "with_fatha": "اَظْ",
+          "with_kasra": "اِظْ",
+          "with_damma": "اُظْ"
+        },
+        {
+          "letter": "ع",
+          "with_fatha": "اَعْ",
+          "with_kasra": "اِعْ",
+          "with_damma": "اُعْ"
+        },
+        {
+          "letter": "غ",
+          "with_fatha": "اَغْ",
+          "with_kasra": "اِغْ",
+          "with_damma": "اُغْ"
+        },
+        {
+          "letter": "ف",
+          "with_fatha": "اَفْ",
+          "with_kasra": "اِفْ",
+          "with_damma": "اُفْ"
+        },
+        {
+          "letter": "ق",
+          "with_fatha": "اَقْ",
+          "with_kasra": "اِقْ",
+          "with_damma": "اُقْ"
+        },
+        {
+          "letter": "ک",
+          "with_fatha": "اَکْ",
+          "with_kasra": "اِکْ",
+          "with_damma": "اُکْ"
+        },
+        {
+          "letter": "ل",
+          "with_fatha": "اَلْ",
+          "with_kasra": "اِلْ",
+          "with_damma": "اُلْ"
+        },
+        {
+          "letter": "م",
+          "with_fatha": "اَمْ",
+          "with_kasra": "اِمْ",
+          "with_damma": "اُمْ"
+        },
+        {
+          "letter": "ن",
+          "with_fatha": "اَنْ",
+          "with_kasra": "اِنْ",
+          "with_damma": "اُنْ"
+        },
+        {
+          "letter": "و",
+          "with_fatha": "اَوْ",
+          "with_kasra": "اِوْ",
+          "with_damma": "اُوْ"
+        },
+        {
+          "letter": "ہ",
+          "with_fatha": "اَہْ",
+          "with_kasra": "اِہْ",
+          "with_damma": "اُہْ"
+        },
+        {
+          "letter": "ی",
+          "with_fatha": "اَیْ",
+          "with_kasra": "اِیْ",
+          "with_damma": "اُیْ"
+        }
+      ],
+      "practice": [
+        "اَبْ اِبْ اُبْ",
+        "اَتْ اِتْ اُتْ",
+        "اَثْ اِثْ اُثْ",
+        "اَجْ اِجْ اُجْ",
+        "اَحْ اِحْ اُحْ",
+        "اَخْ اِخْ اُخْ"
+      ]
+    },
+    {
+      "id": 9,
+      "title_en": "Shaddah (Tashdeed)",
+      "title_ur": "تشدید",
+      "title_ar": "الشدة",
+      "description_en": "Shaddah doubles a letter: the first is sakin and the second carries the vowel.",
+      "description_ur": "تشدید والا حرف دو بار پڑھا جاتا ہے، پہلا ساکن اور دوسرا متحرک۔",
+      "rules": [
+        {
+          "mark": "ّ",
+          "name_en": "Shaddah",
+          "name_ur": "تشدید"
+        }
+      ],
+      "items": [
+        {
+          "letter": "ب",
+          "with_fatha": "بَّ",
+          "with_kasra": "بِّ",
+          "with_damma": "بُّ"
+        },
+        {
+          "letter": "ت",
+          "with_fatha": "تَّ",
+          "with_kasra": "تِّ",
+          "with_damma": "تُّ"
+        },
+        {
+          "letter": "ث",
+          "with_fatha": "ثَّ",
+          "with_kasra": "ثِّ",
+          "with_damma": "ثُّ"
+        },
+        {
+          "letter": "ج",
+          "with_fatha": "جَّ",
+          "with_kasra": "جِّ",
+          "with_damma": "جُّ"
+        },
+        {
+          "letter": "ح",
+          "with_fatha": "حَّ",
+          "with_kasra": "حِّ",
+          "with_damma": "حُّ"
+        },
+        {
+          "letter": "خ",
+          "with_fatha": "خَّ",
+          "with_kasra": "خِّ",
+          "with_damma": "خُّ"
+        },
+        {
+          "letter": "د",
+          "with_fatha": "دَّ",
+          "with_kasra": "دِّ",
+          "with_damma": "دُّ"
+        },
+        {
+          "letter": "ذ",
+          "with_fatha": "ذَّ",
+          "with_kasra": "ذِّ",
+          "with_damma": "ذُّ"
+        },
+        {
+          "letter": "ر",
+          "with_fatha": "رَّ",
+          "with_kasra": "رِّ",
+          "with_damma": "رُّ"
+        },
+        {
+          "letter": "ز",
+          "with_fatha": "زَّ",
+          "with_kasra": "زِّ",
+          "with_damma": "زُّ"
+        },
+        {
+          "letter": "س",
+          "with_fatha": "سَّ",
+          "with_kasra": "سِّ",
+          "with_damma": "سُّ"
+        },
+        {
+          "letter": "ش",
+          "with_fatha": "شَّ",
+          "with_kasra": "شِّ",
+          "with_damma": "شُّ"
+        },
+        {
+          "letter": "ص",
+          "with_fatha": "صَّ",
+          "with_kasra": "صِّ",
+          "with_damma": "صُّ"
+        },
+        {
+          "letter": "ض",
+          "with_fatha": "ضَّ",
+          "with_kasra": "ضِّ",
+          "with_damma": "ضُّ"
+        },
+        {
+          "letter": "ط",
+          "with_fatha": "طَّ",
+          "with_kasra": "طِّ",
+          "with_damma": "طُّ"
+        },
+        {
+          "letter": "ظ",
+          "with_fatha": "ظَّ",
+          "with_kasra": "ظِّ",
+          "with_damma": "ظُّ"
+        },
+        {
+          "letter": "ع",
+          "with_fatha": "عَّ",
+          "with_kasra": "عِّ",
+          "with_damma": "عُّ"
+        },
+        {
+          "letter": "غ",
+          "with_fatha": "غَّ",
+          "with_kasra": "غِّ",
+          "with_damma": "غُّ"
+        },
+        {
+          "letter": "ف",
+          "with_fatha": "فَّ",
+          "with_kasra": "فِّ",
+          "with_damma": "فُّ"
+        },
+        {
+          "letter": "ق",
+          "with_fatha": "قَّ",
+          "with_kasra": "قِّ",
+          "with_damma": "قُّ"
+        },
+        {
+          "letter": "ک",
+          "with_fatha": "کَّ",
+          "with_kasra": "کِّ",
+          "with_damma": "کُّ"
+        },
+        {
+          "letter": "ل",
+          "with_fatha": "لَّ",
+          "with_kasra": "لِّ",
+          "with_damma": "لُّ"
+        },
+        {
+          "letter": "م",
+          "with_fatha": "مَّ",
+          "with_kasra": "مِّ",
+          "with_damma": "مُّ"
+        },
+        {
+          "letter": "ن",
+          "with_fatha": "نَّ",
+          "with_kasra": "نِّ",
+          "with_damma": "نُّ"
+        },
+        {
+          "letter": "و",
+          "with_fatha": "وَّ",
+          "with_kasra": "وِّ",
+          "with_damma": "وُّ"
+        },
+        {
+          "letter": "ہ",
+          "with_fatha": "ہَّ",
+          "with_kasra": "ہِّ",
+          "with_damma": "ہُّ"
+        },
+        {
+          "letter": "ی",
+          "with_fatha": "یَّ",
+          "with_kasra": "یِّ",
+          "with_damma": "یُّ"
+        }
+      ],
+      "practice": [
+        "رَبَّ",
+        "حَقَّ",
+        "ثُمَّ",
+        "اَلْحَجُّ",
+        "مَدَّ",
+        "اِنَّ",
+        "اَنَّ",
+        "جَنَّةٌ"
+      ]
+    },
+    {
+      "id": 10,
+      "title_en": "Rules of Noon Sakin and Tanween",
+      "title_ur": "نون ساکن اور تنوین کے احکام",
+      "title_ar": "أحكام النون الساكنة والتنوين",
+      "description_en": "Four rules apply depending on the letter that follows a noon sakin or tanween.",
+      "description_ur": "نون ساکن یا تنوین کے بعد آنے والے حرف کے مطابق چار احکام ہیں۔",
+      "rules": [
+        {
+          "id": "izhar",
+          "name_en": "Izhar (clear)",
+          "name_ur": "اظہار",
+          "letters": [
+            "ء",
+            "ہ",
+            "ع",
+            "ح",
+            "غ",
+            "خ"
+          ],
+          "how_en": "Pronounce the noon clearly with no ghunnah.",
+          "how_ur": "نون کو صاف اور واضح پڑھیں۔",
+          "examples": [
+            "مَنْ آمَنَ",
+            "مِنْ هَادٍ",
+            "مِنْ عِلْمٍ",
+            "مِنْ حَكِيمٍ",
+            "مِنْ غِلٍّ",
+            "مِنْ خَيْرٍ"
+          ]
+        },
+        {
+          "id": "idgham",
+          "name_en": "Idgham (merging)",
+          "name_ur": "ادغام",
+          "letters": [
+            "ی",
+            "ر",
+            "م",
+            "ل",
+            "و",
+            "ن"
+          ],
+          "how_en": "Merge into the next letter. With ي ن م و it is with ghunnah; with ل ر it is without.",
+          "how_ur": "نون کو اگلے حرف میں ملا دیں۔ ی ن م و میں غنہ کے ساتھ اور ل ر میں بغیر غنہ کے۔",
+          "examples": [
+            "مَنْ يَقُولُ",
+            "مِنْ رَبِّهِمْ",
+            "مِنْ مَالٍ",
+            "مِنْ لَدُنْهُ",
+            "مِنْ وَالٍ",
+            "مِنْ نُورٍ"
+          ]
+        },
+        {
+          "id": "iqlab",
+          "name_en": "Iqlab (changing)",
+          "name_ur": "اقلاب",
+          "letters": [
+            "ب"
+          ],
+          "how_en": "Change the noon into a meem with ghunnah before ba.",
+          "how_ur": "نون کو میم سے بدل کر غنہ کے ساتھ پڑھیں۔",
+          "examples": [
+            "مِنْ بَعْدِ",
+            "أَنْبِئْهُمْ",
+            "سَمِيعٌ بَصِيرٌ"
+          ]
+        },
+        {
+          "id": "ikhfa",
+          "name_en": "Ikhfa (hiding)",
+          "name_ur": "اخفا",
+          "letters": [
+            "ت",
+            "ث",
+            "ج",
+            "د",
+            "ذ",
+            "ز",
+            "س",
+            "ش",
+            "ص",
+            "ض",
+            "ط",
+            "ظ",
+            "ف",
+            "ق",
+            "ک"
+          ],
+          "how_en": "Hide the noon with ghunnah, between izhar and idgham.",
+          "how_ur": "نون کو غنہ کے ساتھ چھپا کر پڑھیں۔",
+          "examples": [
+            "مِنْ تَحْتِهَا",
+            "أَنْتُمْ",
+            "مِنْ ثَمَرَةٍ",
+            "أَنْجَيْنَاكُمْ",
+            "مَنْ ذَا",
+            "مِنْ قَبْلُ",
+            "مِنْ كُلِّ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title_en": "Rules of Meem Sakin",
+      "title_ur": "میم ساکن کے احکام",
+      "title_ar": "أحكام الميم الساكنة",
+      "description_en": "Three rules apply depending on the letter that follows a meem sakin.",
+      "description_ur": "میم ساکن کے بعد آنے والے حرف کے مطابق تین احکام ہیں۔",
+      "rules": [
+        {
+          "id": "ikhfa_shafawi",
+          "name_en": "Ikhfa Shafawi",
+          "name_ur": "اخفائے شفوی",
+          "letters": [
+            "ب"
+          ],
+          "how_en": "Hide the meem with ghunnah before ba.",
+          "how_ur": "ب سے پہلے میم کو غنہ کے ساتھ چھپائیں۔",
+          "examples": [
+            "تَرْمِيهِمْ بِحِجَارَةٍ",
+            "هُمْ بِهِ"
+          ]
+        },
+        {
+          "id": "idgham_shafawi",
+          "name_en": "Idgham Shafawi",
+          "name_ur": "ادغامِ شفوی",
+          "letters": [
+            "م"
+          ],
+          "how_en": "Merge meem into meem with ghunnah.",
+          "how_ur": "میم کو میم میں غنہ کے ساتھ ملا دیں۔",
+          "examples": [
+            "لَهُمْ مَا",
+            "أَمْ مَنْ"
+          ]
+        },
+        {
+          "id": "izhar_shafawi",
+          "name_en": "Izhar Shafawi",
+          "name_ur": "اظہارِ شفوی",
+          "letters": "all others",
+          "how_en": "Pronounce the meem clearly.",
+          "how_ur": "میم کو صاف پڑھیں۔",
+          "examples": [
+            "لَهُمْ فِيهَا",
+            "عَلَيْهِمْ وَلَا",
+            "أَنْعَمْتَ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title_en": "Qalqalah",
+      "title_ur": "قلقلہ",
+      "title_ar": "القلقلة",
+      "description_en": "An echoing bounce on the letters ق ط ب ج د when they have sukoon.",
+      "description_ur": "ق ط ب ج د ساکن ہوں تو انہیں ہلکی سی گونج کے ساتھ پڑھا جاتا ہے۔",
+      "letters": [
+        "ق",
+        "ط",
+        "ب",
+        "ج",
+        "د"
+      ],
+      "mnemonic": "قطب جد",
+      "examples": [
+        "اَقْ",
+        "اَطْ",
+        "اَبْ",
+        "اَجْ",
+        "اَدْ",
+        "يَقْطَعُونَ",
+        "يَبْدَأُ",
+        "الْحَجُّ"
+      ]
+    },
+    {
+      "id": 13,
+      "title_en": "Rules of Laam (Al)",
+      "title_ur": "لامِ تعریف کے احکام",
+      "title_ar": "أحكام لام التعريف",
+      "description_en": "The laam of 'Al' is either pronounced (qamari) or merged into the next letter (shamsi).",
+      "description_ur": "ال کا لام یا تو پڑھا جاتا ہے (قمری) یا اگلے حرف میں مل جاتا ہے (شمسی)۔",
+      "rules": [
+        {
+          "id": "qamari",
+          "name_en": "Laam Qamariyyah",
+          "name_ur": "لامِ قمری",
+          "letters": [
+            "ا",
+            "ب",
+            "ج",
+            "ح",
+            "خ",
+            "ع",
+            "غ",
+            "ف",
+            "ق",
+            "ک",
+            "م",
+            "و",
+            "ہ",
+            "ی"
+          ],
+          "examples": [
+            "الْقَمَرُ",
+            "الْكِتَابُ",
+            "الْحَمْدُ",
+            "الْبَيْتُ"
+          ]
+        },
+        {
+          "id": "shamsi",
+          "name_en": "Laam Shamsiyyah",
+          "name_ur": "لامِ شمسی",
+          "letters": [
+            "ت",
+            "ث",
+            "د",
+            "ذ",
+            "ر",
+            "ز",
+            "س",
+            "ش",
+            "ص",
+            "ض",
+            "ط",
+            "ظ",
+            "ل",
+            "ن"
+          ],
+          "examples": [
+            "الشَّمْسُ",
+            "الرَّحْمَنُ",
+            "النَّاسُ",
+            "الصَّبْرُ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title_en": "Rules of Stopping (Waqf)",
+      "title_ur": "وقف کے احکام",
+      "title_ar": "أحكام الوقف",
+      "description_en": "When stopping, the last letter becomes sakin. Fathatain becomes a long alif; ta marbuta becomes ha.",
+      "description_ur": "ٹھہرتے وقت آخری حرف ساکن ہو جاتا ہے۔ دو زبر الف میں اور گول تا ہا میں بدل جاتی ہے۔",
+      "rules": [
+        {
+          "en": "Harakah → sukoon",
+          "ur": "حرکت ساکن ہو جاتی ہے",
+          "example_connected": "نَعْبُدُ",
+          "example_stopped": "نَعْبُدْ"
+        },
+        {
+          "en": "Fathatain → alif",
+          "ur": "دو زبر الف سے بدل جاتے ہیں",
+          "example_connected": "غَفُورًا",
+          "example_stopped": "غَفُورَا"
+        },
+        {
+          "en": "Kasratain/Dammatain → sukoon",
+          "ur": "دو زیر اور دو پیش ساکن ہو جاتے ہیں",
+          "example_connected": "غَفُورٌ",
+          "example_stopped": "غَفُورْ"
+        },
+        {
+          "en": "Ta marbuta → ha",
+          "ur": "گول تا ہا میں بدل جاتی ہے",
+          "example_connected": "رَحْمَةٌ",
+          "example_stopped": "رَحْمَهْ"
+        }
+      ]
+    }
+  ]
+}
