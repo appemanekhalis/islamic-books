@@ -1,0 +1,555 @@
+{
+ "version": 1,
+ "reviewed": false,
+ "note": "Draft. Every rule, letter, counting and example must be checked by a scholar before reviewed is set to true. Example words are taken from the app's IndoPak Quran text.",
+ "categories": [
+  {
+   "id": "noon",
+   "color": "#1F6AA5",
+   "tint": "#E8F0F8",
+   "ink": "#1A2B3C",
+   "subInk": "#44586B",
+   "titleEn": "Noon Saakin and Tanween",
+   "titleUr": "نون ساکن اور تنوین",
+   "subtitleEn": "4 rules: Izhar, Idgham, Iqlab, Ikhfa",
+   "subtitleUr": "چار احکام: اظہار، ادغام، اقلاب، اخفاء",
+   "introEn": "Four rules apply when a noon with sukoon, or a tanween, is followed by a letter. Which rule it is depends on the letter that comes next.",
+   "introUr": "جب نون ساکن یا تنوین کے بعد کوئی حرف آئے تو چار میں سے کوئی ایک حکم لاگو ہوتا ہے۔ کون سا حکم ہوگا، یہ بعد والے حرف پر منحصر ہے۔",
+   "rules": [
+    {
+     "id": "izhar",
+     "nameEn": "Izhar, clear",
+     "meaningEn": "Clear",
+     "nameAr": "إظهار",
+     "nameUr": "اظہار",
+     "lettersLabelEn": "LETTERS",
+     "lettersLabelUr": "حروف",
+     "letters": [
+      "ء",
+      "ه",
+      "ع",
+      "ح",
+      "غ",
+      "خ"
+     ],
+     "howEn": "Say the noon clearly from its place. No nasal sound and no merging.",
+     "howUr": "نون کو اس کے مخرج سے صاف صاف پڑھیں۔ نہ غنہ کریں اور نہ ملائیں۔",
+     "examples": [
+      {
+       "ar": "مَنْ اٰمَنَ",
+       "ref": "2:62"
+      }
+     ],
+     "color": "#1F6AA5",
+     "tint": "#F3F6FA"
+    },
+    {
+     "id": "idgham",
+     "nameEn": "Idgham, merging",
+     "meaningEn": "Merging",
+     "nameAr": "إدغام",
+     "nameUr": "ادغام",
+     "lettersLabelEn": "LETTERS",
+     "lettersLabelUr": "حروف",
+     "letters": [
+      "ي",
+      "ر",
+      "م",
+      "ل",
+      "و",
+      "ن"
+     ],
+     "howEn": "The noon merges into the next letter. With a nasal sound for ي ن م و, and without it for ل ر.",
+     "howUr": "نون اگلے حرف میں مل جاتا ہے۔ ي ن م و میں غنہ کے ساتھ اور ل ر میں غنہ کے بغیر۔",
+     "examples": [
+      {
+       "ar": "مَنْ یَّقُوْلُ",
+       "ref": "2:8"
+      }
+     ],
+     "color": "#7B3FA0",
+     "tint": "#F7F1FA",
+     "noteEn": "This applies when the noon and the letter are in different words.",
+     "noteUr": "یہ حکم تب ہے جب نون اور حرف الگ الگ کلمے میں ہوں۔"
+    },
+    {
+     "id": "iqlab",
+     "nameEn": "Iqlab, switching",
+     "meaningEn": "Switching",
+     "nameAr": "إقلاب",
+     "nameUr": "اقلاب",
+     "lettersLabelEn": "LETTER",
+     "lettersLabelUr": "حرف",
+     "letters": [
+      "ب"
+     ],
+     "howEn": "Before the letter ب the noon sound changes into a meem, held with a nasal sound.",
+     "howUr": "حرف ب سے پہلے نون کی آواز میم میں بدل جاتی ہے اور غنہ کے ساتھ ادا ہوتی ہے۔",
+     "examples": [
+      {
+       "ar": "مِنْ بَعْدِ",
+       "ref": "2:27"
+      }
+     ],
+     "color": "#B85C00",
+     "tint": "#FBF3EA"
+    },
+    {
+     "id": "ikhfa",
+     "nameEn": "Ikhfa, hiding",
+     "meaningEn": "Hiding",
+     "nameAr": "إخفاء",
+     "nameUr": "اخفاء",
+     "lettersLabelEn": "THE OTHER 15",
+     "lettersLabelUr": "باقی 15 حروف",
+     "letters": [
+      "ت",
+      "ث",
+      "ج",
+      "د",
+      "ذ",
+      "ز",
+      "س",
+      "ش",
+      "ص",
+      "ض",
+      "ط",
+      "ظ",
+      "ف",
+      "ق",
+      "ك"
+     ],
+     "howEn": "The noon is neither fully clear nor fully merged. It is hidden with a nasal sound.",
+     "howUr": "نون نہ پوری طرح صاف پڑھا جاتا ہے اور نہ پوری طرح ملتا ہے، بلکہ غنہ کے ساتھ چھپا کر پڑھا جاتا ہے۔",
+     "examples": [
+      {
+       "ar": "مِنْ قَبْلُ",
+       "ref": "2:25"
+      }
+     ],
+     "color": "#00786F",
+     "tint": "#EAF5F3"
+    }
+   ]
+  },
+  {
+   "id": "meem",
+   "color": "#7B3FA0",
+   "tint": "#F1E9F6",
+   "ink": "#2E1A3C",
+   "subInk": "#5A4469",
+   "titleEn": "Meem Saakin",
+   "titleUr": "میم ساکن",
+   "subtitleEn": "3 rules",
+   "subtitleUr": "تین احکام",
+   "introEn": "Three rules apply when a meem has sukoon. The letter that follows it decides the rule.",
+   "introUr": "جب میم پر سکون ہو تو تین احکام ہیں۔ اس کے بعد آنے والا حرف حکم طے کرتا ہے۔",
+   "rules": [
+    {
+     "id": "ikhfa_shafawi",
+     "nameEn": "Ikhfa Shafawi, hiding at the lips",
+     "meaningEn": "Hiding at the lips",
+     "nameAr": "إخفاء شفوي",
+     "nameUr": "اخفاء شفوی",
+     "lettersLabelEn": "LETTER",
+     "lettersLabelUr": "حرف",
+     "letters": [
+      "ب"
+     ],
+     "howEn": "Before ب the meem is hidden at the lips, with a nasal sound.",
+     "howUr": "ب سے پہلے میم ہونٹوں پر غنہ کے ساتھ چھپا کر پڑھا جاتا ہے۔",
+     "examples": [
+      {
+       "ar": "تَرْمِیْهِمْ بِحِجَارَةٍ",
+       "ref": "105:4"
+      }
+     ]
+    },
+    {
+     "id": "idgham_shafawi",
+     "nameEn": "Idgham Shafawi, merging",
+     "meaningEn": "Merging at the lips",
+     "nameAr": "إدغام شفوي",
+     "nameUr": "ادغام شفوی",
+     "lettersLabelEn": "LETTER",
+     "lettersLabelUr": "حرف",
+     "letters": [
+      "م"
+     ],
+     "howEn": "A meem with sukoon followed by another meem: the two merge into one meem with a nasal sound.",
+     "howUr": "میم ساکن کے بعد میم آئے تو دونوں مل کر ایک مشدد میم بن جاتے ہیں، غنہ کے ساتھ۔",
+     "examples": [
+      {
+       "ar": "قُلُوْبِهِمْ مَّرَضٌ",
+       "ref": "2:10"
+      }
+     ]
+    },
+    {
+     "id": "izhar_shafawi",
+     "nameEn": "Izhar Shafawi, clear",
+     "meaningEn": "Clear at the lips",
+     "nameAr": "إظهار شفوي",
+     "nameUr": "اظہار شفوی",
+     "lettersLabelEn": "ALL OTHER LETTERS",
+     "lettersLabelUr": "باقی تمام حروف",
+     "letters": [],
+     "howEn": "Before any other letter, say the meem clearly at the lips. Take extra care before و and ف.",
+     "howUr": "باقی تمام حروف سے پہلے میم کو ہونٹوں سے صاف پڑھیں۔ و اور ف سے پہلے خاص خیال رکھیں۔",
+     "examples": [
+      {
+       "ar": "وَّهُمْ فِیْهَا",
+       "ref": "2:25"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "madd",
+   "color": "#00786F",
+   "tint": "#E0F1EF",
+   "ink": "#0F2F2C",
+   "subInk": "#365B57",
+   "titleEn": "Madd (prolongation)",
+   "titleUr": "مدّ",
+   "subtitleEn": "4 main types",
+   "subtitleUr": "چار بنیادی اقسام",
+   "introEn": "Madd means lengthening the sound of alif, waw or ya. One count is one beat, about the time it takes to close or open a finger. The counts below are the common ones; follow your teacher for the exact length.",
+   "introUr": "مدّ کا مطلب ہے الف، واو یا یا کی آواز کو لمبا کرنا۔ ایک الف کی مقدار انگلی بند کرنے یا کھولنے کے وقت کے برابر ہے۔ یہاں عام مقداریں لکھی ہیں؛ درست مقدار کے لیے اپنے استاد کی پیروی کریں۔",
+   "rules": [
+    {
+     "id": "madd_asli",
+     "nameEn": "Madd Asli, natural (2 counts)",
+     "meaningEn": "Natural madd",
+     "nameAr": "المد الأصلي",
+     "nameUr": "مدّ اصلی (طبعی)",
+     "lettersLabelEn": "MADD LETTERS",
+     "lettersLabelUr": "حروفِ مد",
+     "letters": [
+      "ا",
+      "و",
+      "ي"
+     ],
+     "howEn": "A madd letter with no hamza or sukoon after it. Read it for 2 counts.",
+     "howUr": "مد کے حرف کے بعد نہ ہمزہ ہو نہ سکون۔ دو الف کی مقدار کھینچیں۔",
+     "examples": [
+      {
+       "ar": "قَالَ",
+       "ref": "2:30"
+      }
+     ]
+    },
+    {
+     "id": "madd_muttasil",
+     "nameEn": "Madd Muttasil, joined (4 to 5 counts)",
+     "meaningEn": "Joined madd",
+     "nameAr": "المد المتصل",
+     "nameUr": "مدّ متصل",
+     "lettersLabelEn": "",
+     "lettersLabelUr": "",
+     "letters": [],
+     "howEn": "A madd letter followed by a hamza in the same word. Read it for 4 to 5 counts.",
+     "howUr": "ایک ہی کلمے میں مد کے حرف کے بعد ہمزہ آئے۔ چار سے پانچ الف کی مقدار۔",
+     "examples": [
+      {
+       "ar": "جَآءَ",
+       "ref": "110:1"
+      }
+     ]
+    },
+    {
+     "id": "madd_munfasil",
+     "nameEn": "Madd Munfasil, separated (4 to 5 counts)",
+     "meaningEn": "Separated madd",
+     "nameAr": "المد المنفصل",
+     "nameUr": "مدّ منفصل",
+     "lettersLabelEn": "",
+     "lettersLabelUr": "",
+     "letters": [],
+     "howEn": "A madd letter at the end of a word and a hamza at the start of the next word. Read it for 4 to 5 counts.",
+     "howUr": "ایک کلمے کے آخر میں مد کا حرف اور اگلے کلمے کے شروع میں ہمزہ ہو۔ چار سے پانچ الف کی مقدار۔",
+     "examples": [
+      {
+       "ar": "بِمَاۤ اُنْزِلَ",
+       "ref": "2:4"
+      }
+     ]
+    },
+    {
+     "id": "madd_lazim",
+     "nameEn": "Madd Lazim, required (6 counts)",
+     "meaningEn": "Required madd",
+     "nameAr": "المد اللازم",
+     "nameUr": "مدّ لازم",
+     "lettersLabelEn": "",
+     "lettersLabelUr": "",
+     "letters": [],
+     "howEn": "A madd letter followed by a permanent sukoon or a shaddah in the same word. Read it for 6 counts.",
+     "howUr": "ایک ہی کلمے میں مد کے حرف کے بعد مستقل سکون یا شد آئے۔ چھ الف کی مقدار۔",
+     "examples": [
+      {
+       "ar": "الضَّآلِّیْنَ",
+       "ref": "1:7"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "qalqalah",
+   "color": "#B85C00",
+   "tint": "#F8EBDD",
+   "ink": "#3C2108",
+   "subInk": "#6B4A2B",
+   "titleEn": "Qalqalah",
+   "titleUr": "قلقلہ",
+   "subtitleEn": "5 letters",
+   "subtitleUr": "پانچ حروف",
+   "introEn": "Qalqalah is a light echo or bounce on five letters, remembered as قطب جد.",
+   "introUr": "قلقلہ پانچ حروف پر ہلکی سی گونج یا اچھال ہے، جنہیں قطب جد سے یاد رکھا جاتا ہے۔",
+   "rules": [
+    {
+     "id": "qalqalah",
+     "nameEn": "Qalqalah, the echo",
+     "meaningEn": "Echo",
+     "nameAr": "القلقلة",
+     "nameUr": "قلقلہ",
+     "lettersLabelEn": "LETTERS",
+     "lettersLabelUr": "حروف",
+     "letters": [
+      "ق",
+      "ط",
+      "ب",
+      "ج",
+      "د"
+     ],
+     "howEn": "When one of these letters has sukoon, or you stop on it, give it a light echo without adding a vowel.",
+     "howUr": "ان حروف پر سکون ہو یا ان پر وقف کیا جائے تو ہلکی سی گونج پیدا کریں، حرکت نہ دیں۔",
+     "examples": [
+      {
+       "ar": "قَدْ سَمِعَ",
+       "ref": "58:1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ghunna",
+   "color": "#2E7D32",
+   "tint": "#E4F1E4",
+   "ink": "#14301A",
+   "subInk": "#3C5E41",
+   "titleEn": "Ghunna",
+   "titleUr": "غنہ",
+   "subtitleEn": "The nasal sound",
+   "subtitleUr": "ناک کی آواز",
+   "introEn": "Ghunna is the soft nasal sound that comes from the nose.",
+   "introUr": "غنہ وہ نرم آواز ہے جو ناک سے نکلتی ہے۔",
+   "rules": [
+    {
+     "id": "ghunna",
+     "nameEn": "Ghunna on noon and meem with shaddah",
+     "meaningEn": "Nasal sound",
+     "nameAr": "الغنة",
+     "nameUr": "غنہ",
+     "lettersLabelEn": "LETTERS",
+     "lettersLabelUr": "حروف",
+     "letters": [
+      "نّ",
+      "مّ"
+     ],
+     "howEn": "A noon or meem with a shaddah always has a nasal sound. Hold it for about 2 counts.",
+     "howUr": "نون اور میم مشدد پر ہمیشہ غنہ ہوتا ہے۔ اسے تقریباً دو الف کی مقدار روکیں۔",
+     "examples": [
+      {
+       "ar": "اِنَّ اللّٰهَ",
+       "ref": "58:1"
+      },
+      {
+       "ar": "ثُمَّ",
+       "ref": "2:52"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tafkhim",
+   "color": "#9C2B3B",
+   "tint": "#F6E4E7",
+   "ink": "#3A1017",
+   "subInk": "#6A3B43",
+   "titleEn": "Heavy and light letters",
+   "titleUr": "تفخیم و ترقیق",
+   "subtitleEn": "Tafkhim and Tarqeeq",
+   "subtitleUr": "تفخیم اور ترقیق",
+   "introEn": "Some letters are read full and deep (heavy), the rest light and thin. The special cases of ر and the lam of Allah's name are not covered here yet.",
+   "introUr": "کچھ حروف بھرپور اور موٹے (تفخیم) اور باقی باریک (ترقیق) پڑھے جاتے ہیں۔ ر اور لفظ اللہ کے لام کی خاص صورتیں ابھی یہاں شامل نہیں۔",
+   "rules": [
+    {
+     "id": "tafkhim",
+     "nameEn": "Tafkhim, heavy letters",
+     "meaningEn": "Heavy",
+     "nameAr": "التفخيم",
+     "nameUr": "تفخیم",
+     "lettersLabelEn": "LETTERS",
+     "lettersLabelUr": "حروف",
+     "letters": [
+      "خ",
+      "ص",
+      "ض",
+      "غ",
+      "ط",
+      "ق",
+      "ظ"
+     ],
+     "howEn": "Raise the back of the tongue so the letter is read full and deep.",
+     "howUr": "زبان کا پچھلا حصہ اوپر اٹھا کر حرف کو بھرپور اور موٹا پڑھیں۔",
+     "examples": [
+      {
+       "ar": "الصِّرَاطَ",
+       "ref": "1:6"
+      },
+      {
+       "ar": "الْفَلَقِ",
+       "ref": "113:1"
+      }
+     ]
+    },
+    {
+     "id": "tarqeeq",
+     "nameEn": "Tarqeeq, light letters",
+     "meaningEn": "Light",
+     "nameAr": "الترقيق",
+     "nameUr": "ترقیق",
+     "lettersLabelEn": "ALL OTHER LETTERS",
+     "lettersLabelUr": "باقی تمام حروف",
+     "letters": [],
+     "howEn": "All the other letters are read light and thin.",
+     "howUr": "باقی تمام حروف باریک پڑھے جاتے ہیں۔",
+     "examples": [
+      {
+       "ar": "نَعْبُدُ",
+       "ref": "1:5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "waqf",
+   "color": "#4A5A6A",
+   "tint": "#E6EAEE",
+   "ink": "#1D252D",
+   "subInk": "#485562",
+   "titleEn": "Stopping signs",
+   "titleUr": "علاماتِ وقف",
+   "subtitleEn": "Waqf marks in the mushaf",
+   "subtitleUr": "مصحف میں وقف کی علامات",
+   "introEn": "Small signs above the text tell you where to stop and where to continue. Mushafs can use slightly different signs, so follow the legend printed in yours.",
+   "introUr": "عبارت کے اوپر چھوٹی علامات بتاتی ہیں کہ کہاں رکنا ہے اور کہاں ملانا ہے۔ مصاحف میں علامات کچھ مختلف ہو سکتی ہیں، اس لیے اپنے مصحف کی دی ہوئی فہرست کی پیروی کریں۔",
+   "rules": [
+    {
+     "id": "waqf_lazim",
+     "nameEn": "Lazim, stop (م)",
+     "meaningEn": "Lazim, stop (م)",
+     "nameAr": "ۘ",
+     "nameUr": "وقفِ لازم",
+     "lettersLabelEn": "",
+     "lettersLabelUr": "",
+     "letters": [],
+     "howEn": "Stop here. Continuing could change the meaning.",
+     "howUr": "یہاں رکنا ضروری ہے۔ ملانے سے معنی بدل سکتے ہیں۔",
+     "examples": [],
+     "sign": "ۘ"
+    },
+    {
+     "id": "waqf_mutlaq",
+     "nameEn": "Mutlaq, stop is good (ط)",
+     "meaningEn": "Mutlaq, stop is good (ط)",
+     "nameAr": "ؕ",
+     "nameUr": "وقفِ مطلق",
+     "lettersLabelEn": "",
+     "lettersLabelUr": "",
+     "letters": [],
+     "howEn": "Stopping is good and you can begin again from the next word.",
+     "howUr": "یہاں رکنا بہتر ہے اور اگلے لفظ سے شروع کیا جا سکتا ہے۔",
+     "examples": [],
+     "sign": "ؕ"
+    },
+    {
+     "id": "waqf_qila",
+     "nameEn": "Qila, stop is preferred (قلى)",
+     "meaningEn": "Qila, stop is preferred (قلى)",
+     "nameAr": "ۗ",
+     "nameUr": "قلے",
+     "lettersLabelEn": "",
+     "lettersLabelUr": "",
+     "letters": [],
+     "howEn": "Stopping is preferred, continuing is allowed.",
+     "howUr": "رکنا بہتر ہے، ملانا بھی جائز ہے۔",
+     "examples": [],
+     "sign": "ۗ"
+    },
+    {
+     "id": "waqf_jaiz",
+     "nameEn": "Jaiz, either (ج)",
+     "meaningEn": "Jaiz, either (ج)",
+     "nameAr": "ۚ",
+     "nameUr": "وقفِ جائز",
+     "lettersLabelEn": "",
+     "lettersLabelUr": "",
+     "letters": [],
+     "howEn": "You may stop or continue. Both are fine.",
+     "howUr": "رکنا اور ملانا دونوں جائز ہیں۔",
+     "examples": [],
+     "sign": "ۚ"
+    },
+    {
+     "id": "waqf_sila",
+     "nameEn": "Sila, continue is preferred (صلى)",
+     "meaningEn": "Sila, continue is preferred (صلى)",
+     "nameAr": "ۖ",
+     "nameUr": "صلے",
+     "lettersLabelEn": "",
+     "lettersLabelUr": "",
+     "letters": [],
+     "howEn": "Continuing is preferred, stopping is allowed.",
+     "howUr": "ملانا بہتر ہے، رکنا بھی جائز ہے۔",
+     "examples": [],
+     "sign": "ۖ"
+    },
+    {
+     "id": "waqf_la",
+     "nameEn": "La, do not stop (لا)",
+     "meaningEn": "La, do not stop (لا)",
+     "nameAr": "ۙ",
+     "nameUr": "لا",
+     "lettersLabelEn": "",
+     "lettersLabelUr": "",
+     "letters": [],
+     "howEn": "Do not stop here. If you need a breath, go back a little and continue.",
+     "howUr": "یہاں نہ رکیں۔ سانس کی ضرورت ہو تو کچھ پیچھے سے دوبارہ ملا کر پڑھیں۔",
+     "examples": [],
+     "sign": "ۙ"
+    },
+    {
+     "id": "waqf_muanaqah",
+     "nameEn": "Mu'anaqah, one of two places (∴)",
+     "meaningEn": "Mu'anaqah, one of two places (∴)",
+     "nameAr": "ۛ",
+     "nameUr": "معانقہ",
+     "lettersLabelEn": "",
+     "lettersLabelUr": "",
+     "letters": [],
+     "howEn": "Two places are marked together. Stop at one of them, not both.",
+     "howUr": "دو جگہوں پر علامت ساتھ ہوتی ہے۔ ان میں سے ایک پر رکیں، دونوں پر نہیں۔",
+     "examples": [],
+     "sign": "ۛ"
+    }
+   ]
+  }
+ ]
+}
